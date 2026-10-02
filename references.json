@@ -1,0 +1,101 @@
+[
+  {
+    "category": "UIFrameworks",
+    "id": "uicard",
+    "name": "UiCard",
+    "url": "https://github.com/ycarowr/UiCard",
+    "license": "MIT",
+    "description": "手牌排列、抽牌、拖放、悬停放大等卡牌 UI 交互参考。README 标注 Unity 2022.3.62f1+，使用 2D Collider，并指出每卡 Canvas 的开销。",
+    "notes": "代码参考，不是卡牌美术包；Unity 6 和 Input System 适配尚未验证，不直接移植完整示例。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "WeatherIcons",
+    "id": "meteocons",
+    "name": "Meteocons",
+    "url": "https://github.com/basmilius/meteocons",
+    "license": "MIT",
+    "description": "原作者 Bas Milius 的天气图标项目；含 SVG、静态 SVG 与 Lottie 路线，风格比细线图标更丰富。",
+    "notes": "原推荐 nasawz/weather-icons 不是本次采用的权威来源。需要从原项目选图；网页 SVG 动画不能假定 Unity UGUI 能直接播放。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "VFX",
+    "id": "alenia-atmospheric",
+    "name": "40 Pixel Art Atmospheric VFX Pack",
+    "url": "https://alenia-studios.itch.io/10-pixel-art-atmospheric-vfx-pack",
+    "license": "作者自定义条款：CC BY 4.0 + additional terms",
+    "description": "当前页面列出雨、雪、龙卷风、雷暴、霜冻等，320×180、每动画 60 帧，提供图条和独立帧。",
+    "notes": "网页已核查，未下载。当前要求署名，并禁止独立素材再分发；因此只放入口。不能沿用旧清单的 CC0/48 帧。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "VFX",
+    "id": "dynamic-weather",
+    "name": "Piece-of-Dynamic-Weather",
+    "url": "https://github.com/HangyBoi/Piece-of-Dynamic-Weather",
+    "license": "未在顶层发现 LICENSE；依赖另行核查",
+    "description": "README 标注 Unity 6.1 / URP，VFX Graph、Shader Graph、iTween，含风、雨、闪电和龙卷风。",
+    "notes": "只作效果实现参考；二维卡牌原型不优先接入完整系统。未验证当前 Unity/URP 版本兼容。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "Potions",
+    "id": "170-potions",
+    "name": "Potion Inventory Sprites - 170 Pack!",
+    "url": "https://opengameart.org/content/potion-inventory-sprites-170-pack",
+    "license": "页面声明 CC0；当前下载被站点停用",
+    "description": "页面描述 170 药水、多角度、多尺寸及法线/高度图，可选作丰富的消耗品库。",
+    "notes": "没有下载原文件；已明确标注 AI 参与制作。页面当前提示文件不可获取，不把宣传描述当作已验收素材。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "SkyTextures",
+    "id": "polyhaven-storm",
+    "name": "Approaching Storm",
+    "url": "https://polyhaven.com/a/approaching_storm",
+    "license": "CC0-1.0",
+    "description": "风暴来临 HDRI，适合紧张天气背景和 3D 环境光参考。",
+    "notes": "仅保存具体下载入口，未下载 HDR/EXR。不是现成 2D 事件插画。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "SkyTextures",
+    "id": "polyhaven-overcast",
+    "name": "Kloofendal Overcast (Pure Sky)",
+    "url": "https://polyhaven.com/a/kloofendal_overcast_puresky",
+    "license": "CC0-1.0",
+    "description": "阴天天空 HDRI，适合阴天章节和漫射环境光。",
+    "notes": "仅保存具体下载入口，未下载；Poly Haven 的 CC0 范围是素材本体，不把网站示例渲染当下载素材。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "SkyTextures",
+    "id": "polyhaven-partlycloudy",
+    "name": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+    "url": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "license": "CC0-1.0",
+    "description": "晴间多云纯天空 HDRI，与阴天/风暴候选形成天气变化对比。",
+    "notes": "仅保存具体下载入口，未下载；卡牌原型优先用已入库 PNG。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  },
+  {
+    "category": "SkyTextures",
+    "id": "source-skyboxes",
+    "name": "Source_Skyboxes",
+    "url": "https://github.com/Jacobdeanr/Source_Skyboxes",
+    "license": "README 声明 CC-BY-4.0",
+    "description": "面向 Source Engine 的天空资源索引，按时段和天气分类，列出光照/雾参数。",
+    "notes": "仅保存入口；不是 Unity 原生天空盒包，需选具体文件、确认格式并转换。不能仅因 GitHub 公开便写成无条件开源。",
+    "status": "source-only",
+    "checked_at": "2026-10-02"
+  }
+]

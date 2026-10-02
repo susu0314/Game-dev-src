@@ -1,0 +1,1260 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-02",
+  "unity_tested": false,
+  "files": [
+    {
+      "path": "CardFrames/card-template/Card.png",
+      "bytes": 246578,
+      "sha256": "61014164edfb202a0e4be4601f4b3dcf9647be91cafb443b9b344602fc66b045",
+      "source_pack": "card-template",
+      "details": "626×830 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Icons/01.png",
+      "bytes": 4224,
+      "sha256": "c8d21245eb2e9305671c60ef699f110e15119b019d4153e0625d92646c1b5d50",
+      "source_pack": "card-template",
+      "details": "46×45 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Icons/02.png",
+      "bytes": 4466,
+      "sha256": "e2c0361eba74b4720f061ac0e563d1462085d76d204c084f2df9dbd4f29c6c0f",
+      "source_pack": "card-template",
+      "details": "48×53 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Icons/03.png",
+      "bytes": 3182,
+      "sha256": "00c329d178abfa35d49011fd76ac207cfd5e55b1ca46fa2b66d9d52de18ff3ba",
+      "source_pack": "card-template",
+      "details": "55×55 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Icons/04.png",
+      "bytes": 2560,
+      "sha256": "4f7a181ae9c141469a98abace2dc9828c00ec327783231fac74bc3438fad0eb7",
+      "source_pack": "card-template",
+      "details": "45×45 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Icons/05.png",
+      "bytes": 3908,
+      "sha256": "a21ebd2e1c26403d5be3a9754e1e10a182306f671ef15386a725ddafac079b3e",
+      "source_pack": "card-template",
+      "details": "54×54 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Numbers/01.png",
+      "bytes": 2689,
+      "sha256": "62474f4df98e1220d0e0e217fad431fec41447ffd2f8088e71a596bafd451b74",
+      "source_pack": "card-template",
+      "details": "34×27 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Numbers/02.png",
+      "bytes": 8108,
+      "sha256": "6a62f233a49c771c21e398a60c5b699dc81943fa09b53a868eeb49ccec1ef4d1",
+      "source_pack": "card-template",
+      "details": "104×38 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Numbers/03.png",
+      "bytes": 7103,
+      "sha256": "5d2dd79c9aa84c1c71421556c7672ce9a708c878c292e622784f56db2e141ad0",
+      "source_pack": "card-template",
+      "details": "102×39 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Texts/01.png",
+      "bytes": 6553,
+      "sha256": "0d571b1568f42e9112df0990374da1156a3a3cd31ab608db0bb67abc95ded043",
+      "source_pack": "card-template",
+      "details": "122×36 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Texts/02.png",
+      "bytes": 12516,
+      "sha256": "af02966505b48621f74142d60960b8f2c21f61df4741276088144ee86d262694",
+      "source_pack": "card-template",
+      "details": "256×56 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Texts/03.png",
+      "bytes": 6577,
+      "sha256": "6e91295d4a0b0d2ba6c3c019defc8aa6b56dc8af356d9a07fdf58f523f171cdb",
+      "source_pack": "card-template",
+      "details": "253×54 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/0.png",
+      "bytes": 164108,
+      "sha256": "f0e48bd5d5beeaa9a3e9f0f4ec7baca27a11360c8f9dedda8f75c19cc5d6f6d6",
+      "source_pack": "card-template",
+      "details": "550×765 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/1.png",
+      "bytes": 12985,
+      "sha256": "a07734157e29287db2d564f5e7aa172e0f05a5a51f2a984831cf58863fd6c60f",
+      "source_pack": "card-template",
+      "details": "550×766 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/2.png",
+      "bytes": 20187,
+      "sha256": "f4a75aa97caec2b81211df3e4fc1522dfd7c5d59295cc5761f61ee189f2886cb",
+      "source_pack": "card-template",
+      "details": "31×330 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/3.png",
+      "bytes": 18782,
+      "sha256": "023219e55975004579f359d59af1cfacbcd4b56186e02a80f6c1f343468fde6f",
+      "source_pack": "card-template",
+      "details": "29×324 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/4.png",
+      "bytes": 7848,
+      "sha256": "2f864d87cf8bee2465e92b3570ec7d335d67ce618692829171ba79a54b44e0f1",
+      "source_pack": "card-template",
+      "details": "53×53 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/5.png",
+      "bytes": 7924,
+      "sha256": "c762c72614de61fc149bcb48bf572487e7aabdb50098428a31b5884c77c19394",
+      "source_pack": "card-template",
+      "details": "53×53 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/6.png",
+      "bytes": 7843,
+      "sha256": "0ab3a11877341b4743b9426011f8f657e3f236fb2c935f8b8458ce3e33283cff",
+      "source_pack": "card-template",
+      "details": "54×53 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/7.png",
+      "bytes": 8013,
+      "sha256": "58d360450c15fd60fa31dcabf0db042f5f0ba00cd4079df07355837aa82f0ae2",
+      "source_pack": "card-template",
+      "details": "54×53 RGBA"
+    },
+    {
+      "path": "CardFrames/card-template/Update/Read Me.txt",
+      "bytes": 111,
+      "sha256": "3b88e3d9b329a6ccaae08b70ed9b5abd0af0cac7a292fefdd89a392e173fa2d2",
+      "source_pack": "card-template",
+      "details": "许可/说明"
+    },
+    {
+      "path": "UI/kenney-ui/License.txt",
+      "bytes": 565,
+      "sha256": "69f7eaa5e05913b4d09cf5848f75390b5c3c9a409ef8555777803d9ca0c171fb",
+      "source_pack": "kenney-ui",
+      "details": "许可/说明"
+    },
+    {
+      "path": "UI/kenney-ui/PNG/Blue/Default/arrow_basic_e.png",
+      "bytes": 422,
+      "sha256": "5517436e154ef58b64ae46ebac37ab1b8a8df8ef3e9220b4154e78acde0221da",
+      "source_pack": "kenney-ui",
+      "details": "32×32 P"
+    },
+    {
+      "path": "UI/kenney-ui/PNG/Blue/Default/arrow_basic_w.png",
+      "bytes": 402,
+      "sha256": "576db7b4e55f6937306d0fa56ea4da000aeaf4f53891fa967d2bd7dc0a83950f",
+      "source_pack": "kenney-ui",
+      "details": "32×32 P"
+    },
+    {
+      "path": "UI/kenney-ui/PNG/Blue/Default/button_rectangle_border.png",
+      "bytes": 338,
+      "sha256": "eb7405e75b9aeddad0b6f0a81f61b142a38b21896f508decf6623c7ab47dbcd3",
+      "source_pack": "kenney-ui",
+      "details": "192×64 P"
+    },
+    {
+      "path": "UI/kenney-ui/PNG/Blue/Default/button_rectangle_flat.png",
+      "bytes": 315,
+      "sha256": "83084c953e57d7506f90600df77f36a8c6156abea0b8ea0e4b3885a596cee2c8",
+      "source_pack": "kenney-ui",
+      "details": "192×64 P"
+    },
+    {
+      "path": "UI/kenney-ui/PNG/Blue/Default/button_round_flat.png",
+      "bytes": 1023,
+      "sha256": "4a6152ea102d48a0a7fc6809196c174dd2eda7b0e705d1451d61695d049bb956",
+      "source_pack": "kenney-ui",
+      "details": "64×64 P"
+    },
+    {
+      "path": "UI/kenney-ui/PNG/Blue/Default/button_square_flat.png",
+      "bytes": 286,
+      "sha256": "bb8026b29b951b698a2a4c7957549e20688a6fff1635975aea6079b208c10675",
+      "source_pack": "kenney-ui",
+      "details": "64×64 P"
+    },
+    {
+      "path": "EventBackgrounds/pixel-clouds/Background2_0.png",
+      "bytes": 1526,
+      "sha256": "aee399f39afd79cef3ac5832f9a6455ecc9155dd4ce4408bffd457b42cccc3ce",
+      "source_pack": "pixel-clouds",
+      "details": "192×108 RGB"
+    },
+    {
+      "path": "EventBackgrounds/mountain-dusk/parallax_mountain_pack/layers/parallax-mountain-bg.png",
+      "bytes": 2025,
+      "sha256": "dbe7e1c6fa0fe6c630797d410fc1542e229909940a08d1a63c341e894559de55",
+      "source_pack": "mountain-dusk",
+      "details": "272×160 RGB"
+    },
+    {
+      "path": "EventBackgrounds/mountain-dusk/parallax_mountain_pack/layers/parallax-mountain-foreground-trees.png",
+      "bytes": 6703,
+      "sha256": "27c7d400bce84c0cccc05726d0a91f48adc7c33eeb537b2bcf1544530740c5d3",
+      "source_pack": "mountain-dusk",
+      "details": "544×160 RGBA"
+    },
+    {
+      "path": "EventBackgrounds/mountain-dusk/parallax_mountain_pack/layers/parallax-mountain-montain-far.png",
+      "bytes": 1093,
+      "sha256": "b979acfecb27133832f475a2930c0a24cf4a4f7af27d4a93e51ec44544e63411",
+      "source_pack": "mountain-dusk",
+      "details": "272×160 RGBA"
+    },
+    {
+      "path": "EventBackgrounds/mountain-dusk/parallax_mountain_pack/layers/parallax-mountain-mountains.png",
+      "bytes": 4729,
+      "sha256": "43ab010e08cda6ec0aa448c57e4ac8368dcfc9c0353964c1f57ef562f8fe30cc",
+      "source_pack": "mountain-dusk",
+      "details": "544×160 RGBA"
+    },
+    {
+      "path": "EventBackgrounds/mountain-dusk/parallax_mountain_pack/layers/parallax-mountain-trees.png",
+      "bytes": 4500,
+      "sha256": "1eee173d04338010de36cd0014e5f5e71eaabb31b6716ce2f0eeb25b0cdf0c52",
+      "source_pack": "mountain-dusk",
+      "details": "544×160 RGBA"
+    },
+    {
+      "path": "EventBackgrounds/mountain-dusk/parallax_mountain_pack/license.txt",
+      "bytes": 281,
+      "sha256": "0cdee69377c1ca66a47d88118133ecb17349f5dfcb0afcb9f76b1ece53c74e3c",
+      "source_pack": "mountain-dusk",
+      "details": "许可/说明"
+    },
+    {
+      "path": "Characters/cute-cloud/Cute_Rain_Cloud_with_Rainbow.png",
+      "bytes": 18160,
+      "sha256": "a5990dc1ad6c267584c3eebf504035465dae3b53bfcae86a77651f23286cb43a",
+      "source_pack": "cute-cloud",
+      "details": "207×250 RGBA"
+    },
+    {
+      "path": "Characters/cute-cloud/uroesch-CuteCloud.7z",
+      "bytes": 5104,
+      "sha256": "f4aacfb6b346a14872f0c14445027486447b0031a94b8eb668d84874a267020d",
+      "source_pack": "cute-cloud",
+      "details": "7z 原归档；未解包"
+    },
+    {
+      "path": "Characters/bad-cloud/BadCloud.png",
+      "bytes": 66170,
+      "sha256": "d3355c038fb7568529daa8adcdd9ea20abebb3733c804a510d344b3cddc1a42a",
+      "source_pack": "bad-cloud",
+      "details": "390×237 RGBA"
+    },
+    {
+      "path": "Potions/fantasy-potions/potion-blue.png",
+      "bytes": 66905,
+      "sha256": "bfa016284dc13643440a2177868185e7512ce4d8b3499abf7f0acbee0280abce",
+      "source_pack": "fantasy-potions",
+      "details": "308×308 RGBA"
+    },
+    {
+      "path": "Potions/fantasy-potions/potion-green.png",
+      "bytes": 66854,
+      "sha256": "b0bdcda0129a19c611653f6f98cf9f22e165c8e94d9dbd424e3bcc0d49ab333d",
+      "source_pack": "fantasy-potions",
+      "details": "308×308 RGBA"
+    },
+    {
+      "path": "Potions/fantasy-potions/potion-red.png",
+      "bytes": 66490,
+      "sha256": "f2223d29189a44777666a6295d4a4eaa4273fbdc50a95148f3d23e01200d0fcf",
+      "source_pack": "fantasy-potions",
+      "details": "308×308 RGBA"
+    },
+    {
+      "path": "Potions/fantasy-potions/potion-violet.png",
+      "bytes": 66695,
+      "sha256": "aea83bc8fdde36197cd0351adea484f86a1289b5d307e28500472113fa045b9e",
+      "source_pack": "fantasy-potions",
+      "details": "308×308 RGBA"
+    },
+    {
+      "path": "Potions/fantasy-potions/potion-yellow.png",
+      "bytes": 64092,
+      "sha256": "351cef2bcb4c9ca63b49f8285839aadcf51b0a17baa17c026f50d7da0f6e511a",
+      "source_pack": "fantasy-potions",
+      "details": "308×308 RGBA"
+    },
+    {
+      "path": "VFX/fog/fog_1.png",
+      "bytes": 156230,
+      "sha256": "a31b96a7fb54f0cd393b454b7e020f3c131064a163f7e10f09f1e25228812740",
+      "source_pack": "fog",
+      "details": "640×480 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_1.png",
+      "bytes": 6140,
+      "sha256": "686050f0cbbc06b589beaf631df7d6a9ab02b94a7242be91c3118620de8ec9b5",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_10.png",
+      "bytes": 5915,
+      "sha256": "fa8b47779dca6b778319532dcbc341d48a0c9406cf491fe3b1cf8799bdbe5533",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_11.png",
+      "bytes": 5287,
+      "sha256": "17381d32260728bba93579b6c0ebf1b691ce573dea4847be7994bac579ee4862",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_12.png",
+      "bytes": 6480,
+      "sha256": "ac397ef98ee9924517c08027e94f5bffa1f7bcd891830086c191679ac05aa48f",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_13.png",
+      "bytes": 5671,
+      "sha256": "10d36c4bf59cfb63b1fac8051db1d180861d6e65a4effe8ef01063758da08243",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_14.png",
+      "bytes": 6337,
+      "sha256": "9d7f3c78a6cc77f5f76ea32848e81581ebfb6a30ef9af0b18efd542e84f71871",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_15.png",
+      "bytes": 7262,
+      "sha256": "5b640fde5af8dd44b0a56b746bc091a83385de5615da5cefa786272fb3d556d2",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_16.png",
+      "bytes": 6626,
+      "sha256": "85262946849c718370fa2b0fbb13c3c39481f57aec189ea1fcd90db712e01c3f",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_17.png",
+      "bytes": 5774,
+      "sha256": "92d0b8ef704fb9fdd7caaeb53e7a87c6c723ad1edda811e98049471ed8b7dcd6",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_18.png",
+      "bytes": 6734,
+      "sha256": "ad4209e064f23c2a6071037006330ce2de4c0e83907d6baecbc8ab11d1298d3f",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_19.png",
+      "bytes": 5954,
+      "sha256": "9e638b1cab30b15aa276f6ee63dfb6c9a74d34b1e7894d380de2a641831c1df2",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_2.png",
+      "bytes": 5070,
+      "sha256": "313d08349e850f9ff59d201288603acfa3205a25b82200f42c014e6c2e7f4cd5",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_20.png",
+      "bytes": 4662,
+      "sha256": "694ec55d230ab1d7a06af310999a0a8fc983525ac7466110e02fdb857efd4feb",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_3.png",
+      "bytes": 5802,
+      "sha256": "978fcb5d000809223e97e4ce8e01203957eb5e7e2a24403f3d58511362089233",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_4.png",
+      "bytes": 5527,
+      "sha256": "8aa7dcdeaaa56faa67ab7ee6997d146cbcaa783e89c3130c9ad785c955f9c168",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_5.png",
+      "bytes": 5343,
+      "sha256": "b62f116b6300246205255afcbe2680b87846b3bd328185bc89dbd8fdc8061ae1",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_6.png",
+      "bytes": 6859,
+      "sha256": "85d3127c5c055b3feb637f8f4c5a6c8947be5519fb7890aa5c919a9a9086f21d",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_7.png",
+      "bytes": 4995,
+      "sha256": "1c2e59d49ea35a1d3dca493be616ec97baded5533bdffbebbe4c182d346f6f0c",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_8.png",
+      "bytes": 6059,
+      "sha256": "87f2b94b6421a5620b4085bf6768a7f4613535d11a85bb595ecd6426d1881ac7",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx8_lighteningBall/lighteningball_1_20_9.png",
+      "bytes": 6003,
+      "sha256": "bbb449a82963b7fb185839a5246e824e93b035bd9c9dc79644c6a250b77f38e0",
+      "source_pack": "spell-effects",
+      "details": "56×65 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_1.png",
+      "bytes": 2434,
+      "sha256": "26a5f902b5b1036af562ecade652e7c3ff912720dcfaa434fdf6e37f621b2ac7",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_10.png",
+      "bytes": 2526,
+      "sha256": "0d08b1ab3179bf939ff5e953e015222d2d3ea8daabb59535121738ef3fb9f4bd",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_11.png",
+      "bytes": 2624,
+      "sha256": "5e44ebb11415d270891c347cb2bbcbc9de7f02a9d23cd964d2240e051b993bea",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_12.png",
+      "bytes": 2663,
+      "sha256": "c10a285789e87c9ff6370ec3fbfa95b0135c81102ef86184c8ae269dec48b9c8",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_13.png",
+      "bytes": 2725,
+      "sha256": "4149dd25742fbe74416bbc3b0ecc425962782f1f460d90ecbdb8f8a70985b3d2",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_14.png",
+      "bytes": 2525,
+      "sha256": "214c1b4fb18bedeee70376e66a4766c7ac98d9b4f923161f04f72aed43718f41",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_15.png",
+      "bytes": 2762,
+      "sha256": "7bf86d849ea8d9f45ef6b64f41b91018a924d57be7cce5966fcf9b674949b096",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_16.png",
+      "bytes": 2599,
+      "sha256": "c826fed5b876d03d4358ff8070bfa4f8490b8b0e5b81c34ea01136a291226e52",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_17.png",
+      "bytes": 2610,
+      "sha256": "8217c6dc91397e8c06eb1d23fa8bf7425c4a890a7c5a4fba344240ce10ae9849",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_18.png",
+      "bytes": 2616,
+      "sha256": "312b9373c06c4a156e107be3f2591c9e123f8f401ef60ece8584524866dc5014",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_19.png",
+      "bytes": 2535,
+      "sha256": "f51f35feae9f6f7a65b1913d98bb0349d281ae4edc80bac64545926d6c34c375",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_2.png",
+      "bytes": 2572,
+      "sha256": "3f3739538dd678215933a67fc698a5d818002284e3653d8d92854fbb43b0f561",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_20.png",
+      "bytes": 2539,
+      "sha256": "da208692a880376f34408e13d3e395ab97a310a0fa2481c53120899fef332253",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_21.png",
+      "bytes": 2579,
+      "sha256": "4a87d51261c120635aee0cc670c7fd9ff171b4374d04bc52f0ea707bb89804fa",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_22.png",
+      "bytes": 2507,
+      "sha256": "9a0f6b54df0461e5ab48135f00e096943902ce16f958409712d9e4d855c5d0cb",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_23.png",
+      "bytes": 2468,
+      "sha256": "d7f726cd991580bfed24b5f483153032f4f1b560c86cd919daa33fccd2e70168",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_24.png",
+      "bytes": 2512,
+      "sha256": "aa5b783da388688fd0b79fa162751c3ef5e506762ef26815b8c31e385ead6f9d",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_25.png",
+      "bytes": 2552,
+      "sha256": "7ea4522b92a3dcd58a16ad493eb6bcc67bffc2c5ca22ff1efab4904c465d56b4",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_26.png",
+      "bytes": 2436,
+      "sha256": "b1ec759ce755ba4141a99f1bfa02ad6bd0bc7785f2838556a216f4a8ec04083d",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_27.png",
+      "bytes": 2443,
+      "sha256": "6c8bd55199e911d6f7582eadea3bc166742472f385659a663a8f009fe193f5ab",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_28.png",
+      "bytes": 2430,
+      "sha256": "10c6f0d72a30fb57d710fce9b5bf1d64589a2c079e861d0b370cae75d9440d9b",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_29.png",
+      "bytes": 2589,
+      "sha256": "510d6dfda80062af496e3445140bbaf35ad1dc4b7d2da9324e96ba27a7f49861",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_3.png",
+      "bytes": 2603,
+      "sha256": "1e5e4a08d80ddc39251ad39e3d6fd83ba36a881c74f298b7eabdbd12c14f5ed7",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_30.png",
+      "bytes": 2537,
+      "sha256": "8b3791a098c2ef26cdff4137dcfbb40b6ae06063f8362747a734ea06420c5dfd",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_4.png",
+      "bytes": 2643,
+      "sha256": "d87abdc72d4df154588ae3bc1fe043573b9f2d9d9d8e8f889af942bdae8725d2",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_5.png",
+      "bytes": 2547,
+      "sha256": "10fdc7fc89b9949b3a79674fcaba7bac1bf73d3ce2734db089121c406cbcfe9e",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_6.png",
+      "bytes": 2738,
+      "sha256": "89b1ed57615e27d894ce3ea7f21457fb06bf4281228cccbd71b64bc28bf17cb9",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_7.png",
+      "bytes": 2663,
+      "sha256": "6268d4257a443772a89b04f5308893b42899e705943acf91842f233dd007dc4b",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_8.png",
+      "bytes": 2645,
+      "sha256": "d58d97ddb50a90381bcf1d9b1046d79850abd9da3b73e5c3539229a4d3b5f40c",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/spell-effects/fx9_rainOnGround/raindrops_1_30_9.png",
+      "bytes": 2513,
+      "sha256": "b9648193f0fd36fe028c27df0ea0b99437186cbd2beed1c1444d1405d9a4572e",
+      "source_pack": "spell-effects",
+      "details": "65×63 RGBA"
+    },
+    {
+      "path": "VFX/particles/License.txt",
+      "bytes": 651,
+      "sha256": "f9e70b81d8cc07c4e07c9f2eff1d94fd371a06070b18cb67c651c41158ec2975",
+      "source_pack": "particles",
+      "details": "许可/说明"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/spark_05_rotated.png",
+      "bytes": 56533,
+      "sha256": "9bceb2b1a8a46d9eaffb4c77d5c4114ff7af8fcd36e586feb1f91bfe2af0e671",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/spark_06_rotated.png",
+      "bytes": 41431,
+      "sha256": "1c47a5d892ac1816c8eb18ebddb1ecf7769a35bbdd5a6671677b565006623936",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/trace_01_rotated.png",
+      "bytes": 28417,
+      "sha256": "6832399b81f21dfb9379159e25ea2efab85258f24a03a2eb7a3f9285829f98d4",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/trace_02_rotated.png",
+      "bytes": 31249,
+      "sha256": "81c30ba255eacd9ff29b5c0b8028b2714a375d6dc7cd11133f515bc37123f0e3",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/trace_03_rotated.png",
+      "bytes": 34894,
+      "sha256": "0037f0c659d2a546b0de452b9ea2d910626c3994154395fb84bf28b9c249c2e1",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/trace_04_rotated.png",
+      "bytes": 36918,
+      "sha256": "857d9fe44e1af7123c1d1006caac5a3707588412997bc8f16591f01a2f73f6e9",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/trace_05_rotated.png",
+      "bytes": 36725,
+      "sha256": "513aca6608ab2c3a677aacc99ad1055a200cd9a703b247c69fabce9695cce2e0",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/trace_06_rotated.png",
+      "bytes": 30533,
+      "sha256": "098bd782fbbac098e30357acdef764184e601ccdf05d109f3dcfb698e5a7ea60",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/Rotated/trace_07_rotated.png",
+      "bytes": 27368,
+      "sha256": "fdfcc20aa9a194f8eee4081bf0f8de21fef48abcba4f073c183a406cdeb45f86",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/smoke_01.png",
+      "bytes": 97452,
+      "sha256": "e8724c219e8d35859167fc0a7e207e13c72ccf0c29704909b9bb3d3dc71c6cf7",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/smoke_02.png",
+      "bytes": 96825,
+      "sha256": "c405cc0ceb31a239dfd873fffdfdfe3ff2056eebd5fcc77dfba1d9fdfed585c7",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/smoke_03.png",
+      "bytes": 39737,
+      "sha256": "a71f8abcac64f8d73a94625cc9a10033dbeafa7eaea750560cba0daa73fe8752",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/smoke_04.png",
+      "bytes": 97568,
+      "sha256": "2db2f69874cdb1e5203f2f86803d5debde30402590cf50a810afaba882184616",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "VFX/particles/PNG (Transparent)/smoke_05.png",
+      "bytes": 83445,
+      "sha256": "e88c8416bd8da1b3f9f19e615dcebdf42f71045799cb4c41f545cb16dd835e35",
+      "source_pack": "particles",
+      "details": "512×512 P"
+    },
+    {
+      "path": "Maps/snow-tiles/sloppymess_4.png",
+      "bytes": 33262,
+      "sha256": "d1ad6950192933e7e9e5243b2b0300d327326e79cfe134ef5e9dff1e8478211c",
+      "source_pack": "snow-tiles",
+      "details": "288×256 RGBA"
+    },
+    {
+      "path": "Maps/snow-tiles/snowspike_0.png",
+      "bytes": 877,
+      "sha256": "23271f297c868ab13263913ab7b04e71e59ee95a0d26e5e27db8342d31aa1a2f",
+      "source_pack": "snow-tiles",
+      "details": "32×32 RGBA"
+    },
+    {
+      "path": "Maps/cartography/License.txt",
+      "bytes": 568,
+      "sha256": "398d6ca6ec814131392cd8f3b10e34214af3e2ce19f22c967d848f8adfef999c",
+      "source_pack": "cartography",
+      "details": "许可/说明"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/arrowSplit.png",
+      "bytes": 664,
+      "sha256": "9e8fc74f853e491d538d7e966a49bb4bb86b8c77f99e3809750af987772896d2",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/campfire.png",
+      "bytes": 633,
+      "sha256": "8c1381aa3ae67bc53984a45a5f021bdb07a59b6e83341e463102680570209fca",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/chest.png",
+      "bytes": 587,
+      "sha256": "eed740e5108cc8e045d84fd3f62b3e44cde350bcec4a24192784d97749c99c3b",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/compass.png",
+      "bytes": 1019,
+      "sha256": "b02549aba9512a71b119091a820fb5c8342fda775996f46dccf2b9717d39c868",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/flag.png",
+      "bytes": 540,
+      "sha256": "9cb9938a6802d0a872395818432dc16f63f9224d3883d7118f2e42f3ba3813f5",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/lake.png",
+      "bytes": 1085,
+      "sha256": "c3c6b1d51d2ae3378347f61e5315d2c00fdf8587e647c8f8c0726d3675ed98f0",
+      "source_pack": "cartography",
+      "details": "128×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/pathSplit.png",
+      "bytes": 857,
+      "sha256": "438e6bbece4beb10ff1be1558102cb6444115f943689f123d15d38f261d073d4",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/pathStraight.png",
+      "bytes": 802,
+      "sha256": "5f4ba859e76b44cac99d38ee651570a06f86d71959ea5cc80b51e664e33284bb",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/rocksMountain.png",
+      "bytes": 770,
+      "sha256": "aec343d2f5d54155908c40809f8e22d1168dbb424924409e40c16d67609a90cc",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/skull.png",
+      "bytes": 763,
+      "sha256": "ab8738f64be903745413da4fb065e238e219cc898af0456dcc5ea6e30f2baf0c",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/tent.png",
+      "bytes": 822,
+      "sha256": "50b2c8f75fb0e18ba81ac27b45e2306b3ad5b99bf7b9c72eda3741c49e257bd4",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/towerWatch.png",
+      "bytes": 742,
+      "sha256": "6a064fea7d7dd1970d35c81a48361d279dc6fdd21b7d7804357180fa2ed103c6",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/treePine.png",
+      "bytes": 549,
+      "sha256": "602ea83462654f0ae68cbfbceb1ebfffa2f4d90aedba58a0a757c7137a60ddf8",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "Maps/cartography/PNG/Default/vulcano.png",
+      "bytes": 679,
+      "sha256": "697c36547ac36ec9c1d333cbe02c4b76949836be8f3831c616d12550dd40d7f8",
+      "source_pack": "cartography",
+      "details": "64×64 P"
+    },
+    {
+      "path": "SkyTextures/cloudy-skyboxes/License.txt",
+      "bytes": 941,
+      "sha256": "95ddc610d08179cdc5b148b8613c652ead00fa45bfc537cd702cc18b198b853f",
+      "source_pack": "cloudy-skyboxes",
+      "details": "许可/说明"
+    },
+    {
+      "path": "SkyTextures/cloudy-skyboxes/Panorama/Panorama_Sky_01-512x512.png",
+      "bytes": 368995,
+      "sha256": "e95b08e07389367ae72dcf3219fb054fb209d32f092065c65ec0ddb8ccb17559",
+      "source_pack": "cloudy-skyboxes",
+      "details": "1024×512 RGB"
+    },
+    {
+      "path": "SkyTextures/cloudy-skyboxes/Panorama/Panorama_Sky_02-512x512.png",
+      "bytes": 444035,
+      "sha256": "300e92e2c454f76e86d244d26b3156bcf96b4d58be4adac63f54ed0c659291dd",
+      "source_pack": "cloudy-skyboxes",
+      "details": "1024×512 RGB"
+    },
+    {
+      "path": "SkyTextures/cloudy-skyboxes/Panorama/Panorama_Sky_03-512x512.png",
+      "bytes": 379414,
+      "sha256": "9b6ac33019347c01a4c23202ed18ee0bf3aaa9983d75207c1e9b110bd55aab82",
+      "source_pack": "cloudy-skyboxes",
+      "details": "1024×512 RGB"
+    },
+    {
+      "path": "WeatherIcons/weather-gui/gui_weather_effects.7z",
+      "bytes": 155616,
+      "sha256": "c480e373f613d490201bbe86e94a8ed9104aa09a170af634ed5fe49fe14df4e7",
+      "source_pack": "weather-gui",
+      "details": "7z 原归档；未解包"
+    },
+    {
+      "path": "WeatherIcons/weather-line/LICENSE.txt",
+      "bytes": 3208,
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "source_pack": "weather-line",
+      "details": "许可/说明"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-drizzle.svg",
+      "bytes": 422,
+      "sha256": "1d19c1c62d82734241a9d8d5b3585a2c93ff70cb9d8cf47127cb1a18aa6c54b4",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-fog.svg",
+      "bytes": 328,
+      "sha256": "68a247163f7501be38045284660b2c19b957e197d510e8169313075309da879a",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-hail.svg",
+      "bytes": 428,
+      "sha256": "be333c2573ef172e969ee7c86e44adb7be2e4e72de60a9d756f41ec7afd977d9",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-lightning.svg",
+      "bytes": 312,
+      "sha256": "9966e87d16d255878fd34efa1174cf1756fb5755c1f63e7ff1df4db5d2fefc36",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-moon.svg",
+      "bytes": 418,
+      "sha256": "8233994cbdc0b3dfb5d234be026d4d038c731a020da4b5a65851fde0e956ee6c",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-rain-wind.svg",
+      "bytes": 358,
+      "sha256": "9f7e0b24e7e7d950664843c44f42f2087f547753fbf03a2e27614d15dd5c1b2e",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-rain.svg",
+      "bytes": 351,
+      "sha256": "4230ba9d28d0a02c088ec0b21079b63aed9f2b7ee8493588adf34ee144bc307b",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-snow.svg",
+      "bytes": 434,
+      "sha256": "cdbb307c38c6f6781dd8169bc92c28cae16b4fb77d6c5d88898dd92698ad2dbc",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud-sun.svg",
+      "bytes": 437,
+      "sha256": "d3d0b5519e3e9e6073bc6d875fcb2b8d0a0c0d0062602490d444ef6a08bb2ab0",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloud.svg",
+      "bytes": 275,
+      "sha256": "28a34022ed00177eb1f218eea5d2b7af30d09b529187fe32219e4dd8ea2b9740",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/cloudy.svg",
+      "bytes": 341,
+      "sha256": "abd7873286db59916b8364500bfa692de04184bb80c8ba8dca06be3fed0c5f29",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/droplets.svg",
+      "bytes": 472,
+      "sha256": "7cc0e91aa44f42f9c39e566f87dd0affd621cf4c103ad5fdbc69a475170917ae",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/haze.svg",
+      "bytes": 429,
+      "sha256": "d8712d43a3350abc5b952e64730557ddea3f7d79ec98589bfa028f681f95af27",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/moon.svg",
+      "bytes": 334,
+      "sha256": "205b959e940d5841f0ce1d09c933153da9d9c94130a54d5cc0c68c2af1d403da",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/rainbow.svg",
+      "bytes": 319,
+      "sha256": "34a658a3d1a2f2d661a42f0765fe7be229237315f14055241fc4d672e19bd28e",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/snowflake.svg",
+      "bytes": 596,
+      "sha256": "9b77c3f6fbd49a7669cc530f8e9d6216ff652457c16e27b2c4eb4d81ac7c4bdd",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/sun.svg",
+      "bytes": 485,
+      "sha256": "a3955c8b0425fcc5c9ba12d2bdd77fe53b2cd5dd05e7742a56f342e996fb2ef8",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/sunrise.svg",
+      "bytes": 441,
+      "sha256": "0ca8d5d0b0eda9f79c87c07b04cfcdbd968fda13d942668b4ddfba36817ed8e1",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/sunset.svg",
+      "bytes": 443,
+      "sha256": "c15d0c8fdf886a57c33b06e326375e556c54d26280d777bb674439147d8c7698",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/thermometer-snowflake.svg",
+      "bytes": 482,
+      "sha256": "ae1fa14b3a2ed8058cd0369f6761ae8200c2ebcfe2aa61b6a9ff73c9162b89eb",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/thermometer-sun.svg",
+      "bytes": 426,
+      "sha256": "e7725bb266a9035a7ccdce41850b518f90f34cbe515e8dbfbcea0ae5ab184567",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/tornado.svg",
+      "bytes": 327,
+      "sha256": "2ea4fd5494915851a055eb80e6e715169582f5d3b482cb2297f856b368e273ff",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/waves-horizontal.svg",
+      "bytes": 336,
+      "sha256": "b31f6534ef601e7c138922e99b0557ae61db7e5704c1a05806ecb78b2eaad443",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "WeatherIcons/weather-line/wind.svg",
+      "bytes": 336,
+      "sha256": "eb35f6f00125b779a993c21ee761432faf8fc3210272c94448f63e2196d419b7",
+      "source_pack": "weather-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/LICENSE.txt",
+      "bytes": 3208,
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "source_pack": "instruments-line",
+      "details": "许可/说明"
+    },
+    {
+      "path": "Relics/instruments-line/binoculars.svg",
+      "bytes": 604,
+      "sha256": "f438d79e735a710d494cb9098548096e954e38b8f4d6c07fe8061f159f993525",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/compass.svg",
+      "bytes": 351,
+      "sha256": "c5a4d147bf48424f48b514712dd61c1b07cb689612a7baef87c88870092c1659",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/fan.svg",
+      "bytes": 431,
+      "sha256": "6ed585fa7a183086480baf6aaeb531cbe65e977222c6462dcb1e4662a6744b54",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/flask-conical.svg",
+      "bytes": 383,
+      "sha256": "a2ce857c159bef4c128a6d9f0b6dcbd6504ecf1a2a670ee220efd14fd032b561",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/flask-round.svg",
+      "bytes": 299,
+      "sha256": "e1cb2dd0797e277663c1b1c22a22fe5b5adc6fc3872bbd70115910b2ef997ff0",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/gauge.svg",
+      "bytes": 278,
+      "sha256": "d7710543a5085c5a61d0bbac1da8b89ef28e541b38ed739357991dff33d475b5",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/radar.svg",
+      "bytes": 527,
+      "sha256": "b948d2b46e2605b0c0adf35b266a1b3cb4afa47ef3247e710f05e654b2c0a1cf",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/radio-tower.svg",
+      "bytes": 485,
+      "sha256": "d5d2728425fe115bed9f309c03b9dd1e2b7483a9242df87966c37e36ee3381cf",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/satellite.svg",
+      "bytes": 667,
+      "sha256": "542eb41b2ea31f42b4bd7992cecdff22a8a4f1c21275036bc3537c64efee8481",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/telescope.svg",
+      "bytes": 650,
+      "sha256": "ef9c953964649dd84764478de5396aaab3c924927e522a74f4ccfdeef381b023",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Relics/instruments-line/thermometer.svg",
+      "bytes": 266,
+      "sha256": "a56c95062445d52d95c51a77c4959d5a022539a0194205cc2ce2e9ce8f35847b",
+      "source_pack": "instruments-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/LICENSE.txt",
+      "bytes": 3208,
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "source_pack": "route-nodes-line",
+      "details": "许可/说明"
+    },
+    {
+      "path": "Maps/route-nodes-line/circle-question-mark.svg",
+      "bytes": 322,
+      "sha256": "975db087da041530dbf59ba1e61a7b99c3519fad43dae6375e42ccc74ba63924",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/flag.svg",
+      "bytes": 370,
+      "sha256": "e99f1de2fea87cd2e3decc28a1f021a2a8182f907b3b350f604909de2030d8b9",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/map-pin.svg",
+      "bytes": 359,
+      "sha256": "16f1042a62f1bda20ebab8bfc1cb79c0be285c980dea6c2c733a17902631405b",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/mountain.svg",
+      "bytes": 248,
+      "sha256": "fced3dd3ffb1472e62a13d92e72633e9c68a4655da3d8aa801bc65a041fe64be",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/route.svg",
+      "bytes": 344,
+      "sha256": "fc169fd38a9963b016ad6d60fd72baa2b0ea8e0cec085bbc53287297c3d8121a",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/skull.svg",
+      "bytes": 423,
+      "sha256": "fa2d1cc99e2a27e18ec6b8cb07cf9ec93d120f7dade3dad3987cf555c75a9724",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/store.svg",
+      "bytes": 587,
+      "sha256": "ab2cb92d8cff487f5a53a06f5ee3ba0c2cf522b95281adc1de9ec8410c26e99a",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/swords.svg",
+      "bytes": 556,
+      "sha256": "2dcf7d618baa1fbf21064bc99eb754b8b6d589f444781975a6ea0008be4e2e82",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/tent.svg",
+      "bytes": 326,
+      "sha256": "6915cac45dc3f1a4490c089c209078eaa44ccfef7b01023d3fd59ea4213a9d0a",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    },
+    {
+      "path": "Maps/route-nodes-line/trees.svg",
+      "bytes": 441,
+      "sha256": "5bd0ff178d40b8c81dd38180dae0683aa9bc89c71b204167e06d2a3a0d506563",
+      "source_pack": "route-nodes-line",
+      "details": "SVG viewBox 0 0 24 24"
+    }
+  ]
+}
