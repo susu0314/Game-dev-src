@@ -13,6 +13,8 @@
 
 [人物与NPC · 逐文件与分组说明](sts-original/README.md)：46个保留文件。原版来源，与首批气象开源素材分别记录。
 
+[STS1 四职业透明战斗站姿](sts-original/rendered-idle/README.md)：4张 Idle 首帧 PNG，附 Unity Sprite Pivot；从已保留的原版骨骼另行导出。
+
 ## Spire Codex 二维素材补充
 
 [杀戮尖塔2 · 二维人物](spire-codex-sts2/README.md)：7项选用来源，提供PNG或完整动作图表，并保留WebP源文件存档。

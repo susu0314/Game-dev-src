@@ -2,6 +2,8 @@
 
 四个原版职业、角色选择图、商人和引导NPC占位，重点保留成套骨骼；主题不强行改写。
 
+新增 [四职业透明战斗站姿 PNG](rendered-idle/README.md)：从已保留的 Spine 3.4.02 Idle 首帧组装导出，可直接用于 Unity Sprite；属于衍生导出，下面的 46 个源文件计数保持不变。
+
 本类保留 46 个源文件，约 3.80 MiB。文件内容保留原样；整体来源见 [本批说明](../../Collections/sts-original/README.md)。
 
 ![角色选择原图预览](../../Previews/sts-original/characters.jpg)
@@ -18,6 +20,7 @@
 | [npcs/merchant](npcs/merchant/README.md) | 3 | Spine 3.4.02，动作 idle |
 | [npcs/neow](npcs/neow/README.md) | 3 | Spine 3.4.02，动作 idle, speak |
 | [selection](selection/README.md) | 10 | 人物与NPC文件逐项规格/用途 |
+| [rendered-idle](rendered-idle/README.md) | 4张导出PNG | 四职业完整透明站姿，尺寸、用途与 Unity Pivot 见分组说明 |
 | [theSilent](theSilent/README.md) | 3 | 人物与NPC文件逐项规格/用途 |
 | [theSilent/idle](theSilent/idle/README.md) | 3 | Spine 3.4.02，动作 Hit, Idle |
 | [watcher](watcher/README.md) | 3 | 人物与NPC文件逐项规格/用途 |
