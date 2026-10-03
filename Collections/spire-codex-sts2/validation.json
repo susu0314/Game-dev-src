@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-03",
+  "source_version": "v0.107.1",
+  "selected_sources": 433,
+  "static_sources": 429,
+  "animation_clips": 4,
+  "animation_frames": 94,
+  "derived_pngs": 435,
+  "source_archives": 11,
+  "not_selected_remote_index": 454,
+  "all_source_webps_decoded": true,
+  "all_derived_pixels_match_decoded_sources": true,
+  "all_zip_members_match_download_sha256": true,
+  "all_animation_timing_preserved": true,
+  "unity_tested": false
+}

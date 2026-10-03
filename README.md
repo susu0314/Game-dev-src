@@ -1,5 +1,10 @@
 # Game-dev-src · 气象卡牌游戏素材库
 
+## 新增：Spire Codex 二维素材补充
+
+[杀戮尖塔2主版本 v0.107.1 · 分类总览](Collections/spire-codex-sts2/README.md)：433项选用来源，435张PNG、4个完整预渲染动作及原WebP存档。覆盖人物、敌人、卡框、功能UI、特效、地图、卡面、遗物、药水和背景。
+
+
 ## 新增：用户上传原版素材精选
 
 [进入原版分类总览](Collections/sts-original/README.md)：**905个保留文件**，覆盖人物/NPC、敌人、UI、卡框、特效、地图、卡面、遗物、药水、背景和音效。另有**1709个暂不采用文件**放在[废弃目录](Discarded/sts-original/README.md)，保留原内容与恢复清单。

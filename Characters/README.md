@@ -12,3 +12,7 @@
 ## 原版素材精选
 
 [人物与NPC · 逐文件与分组说明](sts-original/README.md)：46个保留文件。原版来源，与首批气象开源素材分别记录。
+
+## Spire Codex 二维素材补充
+
+[杀戮尖塔2 · 二维人物](spire-codex-sts2/README.md)：7项选用来源，提供PNG或完整动作图表，并保留WebP源文件存档。

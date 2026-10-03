@@ -33,3 +33,7 @@ Unity 官方设置参考：
 ## 新增原版资源
 
 [原版素材接入说明](Collections/sts-original/IntegrationNotes.md)：Spine3.4骨骼、图集依赖、原特效图表与音频检查。不要把本批原角色图集当单张人物Sprite，也不要把文件完整性当作Unity兼容性通过。
+
+## Spire Codex PNG与动作图表
+
+[二维图片与完整逐帧图表接入说明](Collections/spire-codex-sts2/IntegrationNotes.md)。使用PNG输出，源WebP存档用于追溯；PNG像素核对不等于Unity导入运行验收。

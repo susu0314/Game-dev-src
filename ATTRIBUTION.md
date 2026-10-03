@@ -27,3 +27,7 @@ CC0 说明：https://creativecommons.org/publicdomain/zero/1.0/
 ## 用户上传原版资源批次
 
 新增来源为用户提供的原版《Slay the Spire》资源，见 [该批次说明](Collections/sts-original/README.md)。本次按个人学习/非商用原型筛选，保留原始文件内容及来源，未发现随包统一LICENSE，不将其套用本文件前面的CC0/MIT许可。73套Spine文件是导出数据，运行时另外选择与验证。
+
+## Spire Codex 二维补充
+
+[本批来源说明](Collections/spire-codex-sts2/README.md)：原游戏Slay the Spire 2美术与站点预渲染结果，来自Spire Codex主版本v0.107.1。提供RGBA PNG与源WebP原文件ZIP，来源、转换和哈希分别记录；按个人非商用原型用途整理，未套用CC0/MIT许可。

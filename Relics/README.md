@@ -11,3 +11,7 @@
 ## 原版素材精选
 
 [遗物与器具 · 逐文件与分组说明](sts-original/README.md)：75个保留文件。原版来源，与首批气象开源素材分别记录。
+
+## Spire Codex 二维素材补充
+
+[杀戮尖塔2 · 遗物与器具](spire-codex-sts2/README.md)：14项选用来源，提供PNG或完整动作图表，并保留WebP源文件存档。

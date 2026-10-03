@@ -1,0 +1,93 @@
+{
+  "source_url": "https://cdn.spire-codex.com/game/v0.107.1/animations/monsters/zapbot/attack.webp",
+  "source_sha256": "0d8a81b1bbf6da2e7f2a6c3906e93b1c981b5e710ee5381ac1730458bceab3d4",
+  "width": 273,
+  "height": 318,
+  "frames": 7,
+  "duration_ms": 1250,
+  "loop": 0,
+  "coordinates": "x/y_top from top-left; y_unity from bottom-left",
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "frame_data": [
+    {
+      "index": 0,
+      "page": "sheet_000.png",
+      "x": 0,
+      "y_top": 0,
+      "y_unity": 0,
+      "width": 273,
+      "height": 318,
+      "duration_ms": 50,
+      "decoded_rgba_sha256": "3518348b2f6d3bb3055347dde1bb60e351bdb6702c7cd75de92823cde12b178b"
+    },
+    {
+      "index": 1,
+      "page": "sheet_000.png",
+      "x": 273,
+      "y_top": 0,
+      "y_unity": 0,
+      "width": 273,
+      "height": 318,
+      "duration_ms": 50,
+      "decoded_rgba_sha256": "943283020e4094ba62006ac2e179a4e0c909b4d7e756013af1e42dae41389704"
+    },
+    {
+      "index": 2,
+      "page": "sheet_000.png",
+      "x": 546,
+      "y_top": 0,
+      "y_unity": 0,
+      "width": 273,
+      "height": 318,
+      "duration_ms": 200,
+      "decoded_rgba_sha256": "39ad9720c53feb35acce8c44a09cda3d1a4374a6011e74c56e096c51ceec346a"
+    },
+    {
+      "index": 3,
+      "page": "sheet_000.png",
+      "x": 819,
+      "y_top": 0,
+      "y_unity": 0,
+      "width": 273,
+      "height": 318,
+      "duration_ms": 800,
+      "decoded_rgba_sha256": "e6d40c1804fc72cd9cab8536e85b9992e8f73f58b90ba12415387934aa202463"
+    },
+    {
+      "index": 4,
+      "page": "sheet_000.png",
+      "x": 1092,
+      "y_top": 0,
+      "y_unity": 0,
+      "width": 273,
+      "height": 318,
+      "duration_ms": 50,
+      "decoded_rgba_sha256": "f3d0c3e98122e11e30816af0fbecf9dffb257404f1b54a946b5e22f3decb15fd"
+    },
+    {
+      "index": 5,
+      "page": "sheet_000.png",
+      "x": 1365,
+      "y_top": 0,
+      "y_unity": 0,
+      "width": 273,
+      "height": 318,
+      "duration_ms": 50,
+      "decoded_rgba_sha256": "cce795ba21309b76ea3e70f6792e5c0ea94912bb22e85e10a69dbfbe9113c247"
+    },
+    {
+      "index": 6,
+      "page": "sheet_000.png",
+      "x": 1638,
+      "y_top": 0,
+      "y_unity": 0,
+      "width": 273,
+      "height": 318,
+      "duration_ms": 50,
+      "decoded_rgba_sha256": "64e79277f25fe34f51b4a5fce38c64400a5807a7e496485f3151dde0c125f738"
+    }
+  ]
+}

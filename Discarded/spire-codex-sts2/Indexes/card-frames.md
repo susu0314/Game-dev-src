@@ -1,0 +1,64 @@
+# 未选用 · card-frames
+
+均为远程源文件索引，未下载。
+
+| 源文件 | 取舍说明 |
+|---|---|
+| [ancient_border.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_border.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_0.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_0.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_1.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_1.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_2.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_2.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_3.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_3.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_4.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_4.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_5.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_5.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_6.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_6.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_7.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_7.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_8.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_8.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_flame_9.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_flame_9.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_glass.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_glass.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_textbg_attack.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_textbg_attack.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_textbg_power.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_textbg_power.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [ancient_textbg_skill.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/ancient_textbg_skill.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [banner_ancient.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/banner_ancient.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [banner_ancient_raw.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/banner_ancient_raw.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [banner_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/banner_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [banner_event.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/banner_event.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [banner_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/banner_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [banner_status.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/banner_status.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_attack_ancient.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_attack_ancient.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_attack_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_attack_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_attack_event.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_attack_event.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_attack_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_attack_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_attack_status.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_attack_status.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_power_ancient.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_power_ancient.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_power_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_power_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_power_event.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_power_event.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_power_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_power_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_power_status.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_power_status.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_skill_ancient.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_skill_ancient.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_skill_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_skill_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_skill_event.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_skill_event.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_skill_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_skill_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [border_skill_status.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/border_skill_status.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [energy_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/energy_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [energy_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/energy_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_attack_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_attack_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_attack_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_attack_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_power_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_power_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_power_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_power_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_colorless.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_colorless.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_defect.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_defect.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_ironclad.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_ironclad.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_necrobinder.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_necrobinder.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_regent.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_regent.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_quest_silent.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_quest_silent.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_skill_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_skill_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [frame_skill_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/frame_skill_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [plaque_ancient.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/plaque_ancient.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [plaque_curse.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/plaque_curse.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [plaque_event.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/plaque_event.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [plaque_quest.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/plaque_quest.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
+| [plaque_status.webp](https://cdn.spire-codex.com/game/v0.107.1/card-frames/plaque_status.webp) | 测试/废弃占位、专属原版玩法、同类变体或当前题材无明确用途；本轮仅索引，未下载 |
