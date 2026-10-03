@@ -1,0 +1,3402 @@
+{
+  "collection": "community-supplement-2026-10",
+  "collected_at": "2026-10-03",
+  "source_commits": [
+    {
+      "key": "grem",
+      "repo": "Gremious/StS-DefaultModBase",
+      "branch": "master",
+      "sha": "c36142ee1a66bc6ca41911419a743f1e40d48d62",
+      "tree": "0d78e9901505125bc34f6b04202af0147cb8b29a",
+      "date": "2024-06-07T12:11:44Z"
+    },
+    {
+      "key": "trail",
+      "repo": "fragule-hub/learning_ss2-card_trail_vfx",
+      "branch": "main",
+      "sha": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "tree": "830ec145b13731d752eac3dab1f1c6ec0c3d3586",
+      "date": "2026-04-08T11:22:28Z"
+    },
+    {
+      "key": "icons",
+      "repo": "game-icons/icons",
+      "branch": "master",
+      "sha": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "tree": "819b975fa234b1ef75cc345b9a2856bed8f2a5a4",
+      "date": "2026-04-23T19:08:19Z"
+    },
+    {
+      "key": "nue",
+      "repo": "Arefnue/NueDeck",
+      "branch": "master",
+      "sha": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "tree": "721af0d812a95a31919613903b53d1506446ac30",
+      "date": "2022-09-17T17:38:46Z"
+    },
+    {
+      "key": "otter",
+      "repo": "TheCodeOtter/STS",
+      "branch": "main",
+      "sha": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "tree": "8e8e75bf7c928e3bb73b52c0241a323cb54e4c70",
+      "date": "2025-06-24T10:53:33Z"
+    },
+    {
+      "key": "clone",
+      "repo": "Sanxom/Slay-the-Spire-Clone",
+      "branch": "main",
+      "sha": "c84d2569a70620cacd8085253d85438c669e6269",
+      "tree": "421770416adf116a95c89a4de0cd209ccfd3ff1f",
+      "date": "2025-06-14T07:39:45Z"
+    }
+  ],
+  "base_commit": "dd72ec3dc6e1dec214e5aa67686963f0654d44e2",
+  "selected_source_or_extracted_files": 107,
+  "discarded_downloaded_files": 8,
+  "derived_transparent_icon_pngs": 46,
+  "unity_tested": false,
+  "items": [
+    {
+      "source": "user-upload",
+      "source_path": "暗黑长途.png",
+      "source_url": null,
+      "path": "ArtReferences/dark-gold-concept/dark-gold-longboard.png",
+      "category": "ArtReferences",
+      "purpose": "用户提供的黑金界面概念长图；用于菜单、选人、地图、战斗与奖励布局参考",
+      "bytes": 1211797,
+      "sha256": "68b98cb78df5b558cdc4354077499bd94c8dd0451897269d157386dbd49b7488",
+      "blob_sha": "9d02253c84a70f600ab78dbe95ccb5ae16562831",
+      "response_headers": {},
+      "unity_tested": false,
+      "image": {
+        "width": 420,
+        "height": 2048,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss11.jpg",
+      "source_url": "https://www.megacrit.com/images/ss11.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss11.jpg",
+      "category": "ArtReferences",
+      "purpose": "营地截图；参考休息/锻造二选项和营火氛围",
+      "bytes": 298886,
+      "sha256": "a32205df2da1b3d0c298dd289c84a43aff232d567ca9fd601ca7c1293cac03bd",
+      "blob_sha": "81376d3b4613bc55a96f57db6433b4626b34eaf4",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "298886",
+        "last-modified": "Mon, 28 Sep 2026 20:34:17 GMT",
+        "etag": "\"6abacf49-48f86\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss13.jpg",
+      "source_url": "https://www.megacrit.com/images/ss13.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss13.jpg",
+      "category": "ArtReferences",
+      "purpose": "能力效果战斗截图；参考高亮、屏幕氛围与技能叠层",
+      "bytes": 503854,
+      "sha256": "7c4b92adccdd85fc720b5a60df25910dacfb0cc82bcaa82b44ed7c020c50b17a",
+      "blob_sha": "c1357989d7c178b7d3f4f7d594eb8e22def9a8ff",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "503854",
+        "last-modified": "Tue, 23 Jul 2024 21:00:31 GMT",
+        "etag": "\"66a019ef-7b02e\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss20.jpg",
+      "source_url": "https://www.megacrit.com/images/ss20.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss20.jpg",
+      "category": "ArtReferences",
+      "purpose": "解锁卡牌截图；参考三选项展示、稀有度和奖励动效构图",
+      "bytes": 372708,
+      "sha256": "bb818a0943187a5933f953dec6e8f658cbd93e41f8f4256db4958553ff30905b",
+      "blob_sha": "ae9049f804bdd022c32e3f6289f9b0c4b2129ddc",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "372708",
+        "last-modified": "Mon, 28 Sep 2026 20:34:17 GMT",
+        "etag": "\"6abacf49-5afe4\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss21.jpg",
+      "source_url": "https://www.megacrit.com/images/ss21.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss21.jpg",
+      "category": "ArtReferences",
+      "purpose": "蓝衣女子事件截图；参考左插画、右正文和底部选项",
+      "bytes": 207731,
+      "sha256": "bf89f318ff0a2343736f076115aac4b619343f4227109007bf31a666590a48fb",
+      "blob_sha": "741006c50017501e0f2801d8730658eac94092b0",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "207731",
+        "last-modified": "Mon, 28 Sep 2026 20:34:17 GMT",
+        "etag": "\"6abacf49-32b73\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss23.jpg",
+      "source_url": "https://www.megacrit.com/images/ss23.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss23.jpg",
+      "category": "ArtReferences",
+      "purpose": "精英战斗截图；参考左右站位、血条和手牌布局",
+      "bytes": 529230,
+      "sha256": "6106019cba45efa85eab60c845562e21e872378e2104a724c610d6b15d2b0947",
+      "blob_sha": "d699bd741dc5952856d5539040bdd59aa9f636b0",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "529230",
+        "last-modified": "Mon, 28 Sep 2026 20:34:17 GMT",
+        "etag": "\"6abacf49-8134e\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss25.jpg",
+      "source_url": "https://www.megacrit.com/images/ss25.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss25.jpg",
+      "category": "ArtReferences",
+      "purpose": "死亡界面截图；参考失败结算、角色残像和背景虚化",
+      "bytes": 184789,
+      "sha256": "227ebeda45c3d9ea42e76b3b6b056a767b32033cedcf46b11e85a9d77e80f531",
+      "blob_sha": "6a4bcbda798c45a1a5ad607054adc8474702174a",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "184789",
+        "last-modified": "Mon, 28 Sep 2026 20:34:17 GMT",
+        "etag": "\"6abacf49-2d1d5\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss26.jpg",
+      "source_url": "https://www.megacrit.com/images/ss26.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss26.jpg",
+      "category": "ArtReferences",
+      "purpose": "卡牌图鉴截图；参考分类、筛选与卡牌网格",
+      "bytes": 498027,
+      "sha256": "e8165142cd86a9cf6b667a158207d4ac631f430b7853c9a4bc856b33b9fe2473",
+      "blob_sha": "5f24972dc4aad2f16d735a7a45ab6bfcad3e4b68",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "498027",
+        "last-modified": "Mon, 28 Sep 2026 20:34:17 GMT",
+        "etag": "\"6abacf49-7996b\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss4.jpg",
+      "source_url": "https://www.megacrit.com/images/ss4.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss4.jpg",
+      "category": "ArtReferences",
+      "purpose": "商店截图；参考卡牌/药水陈列与购买区域",
+      "bytes": 375457,
+      "sha256": "4a3891b97d853dda2e9376c29e07a52493db45a915a44c000329361551ec7e77",
+      "blob_sha": "28be05f8c706ed6acaa3b0c165035d880c689593",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "375457",
+        "last-modified": "Tue, 23 Jul 2024 21:00:31 GMT",
+        "etag": "\"66a019ef-5baa1\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "megacrit-presskit",
+      "source_path": "ss8.jpg",
+      "source_url": "https://www.megacrit.com/images/ss8.jpg",
+      "path": "ArtReferences/megacrit-presskit/ss8.jpg",
+      "category": "ArtReferences",
+      "purpose": "三哨卫战斗截图；参考多目标站位、意图图标和手牌悬停",
+      "bytes": 507623,
+      "sha256": "ddeac12e57e3410b12027e46a1d2be57cb694b636e393b562e1d1b33d10ab27d",
+      "blob_sha": "fc40399ccc060c43be04506957aff9f2bf8cb781",
+      "response_headers": {
+        "Content-Type": "image/jpeg",
+        "Content-Length": "507623",
+        "last-modified": "Tue, 23 Jul 2024 21:00:31 GMT",
+        "etag": "\"66a019ef-7bee7\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1920,
+        "height": 1080,
+        "mode": "RGB",
+        "format": "JPEG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/ArmorUp.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/ArmorUp.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "f85bbcf91527d77c22ba4ad6dd48776eea277614",
+      "path": "CardArt/code-otter/ArmorUp.png",
+      "category": "CardArt",
+      "purpose": "护甲技能插画，可作护盾牌占位",
+      "bytes": 6199,
+      "sha256": "749daabc6a06a458f3901a4523035ec1cba5c0b290ebd8e370c3aaa8dc21a0db",
+      "blob_sha": "f85bbcf91527d77c22ba4ad6dd48776eea277614",
+      "response_headers": {
+        "Content-Length": "6199",
+        "Content-Type": "image/png",
+        "ETag": "\"afd52ad0fd8c738f378bdb0edd5e3329186d8dd0c09eab56a395c1f050f91098\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 180,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/ArrowRain.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/ArrowRain.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "04ed32442f27dda93c2d4e16170841136862c7a1",
+      "path": "CardArt/code-otter/ArrowRain.png",
+      "category": "CardArt",
+      "purpose": "箭雨技能插画，适合风箭或多段攻击占位",
+      "bytes": 2397,
+      "sha256": "5820b188c545d06276045b6a794e8fc11dd7a6265409461b82110a306955f7ba",
+      "blob_sha": "04ed32442f27dda93c2d4e16170841136862c7a1",
+      "response_headers": {
+        "Content-Length": "2397",
+        "Content-Type": "image/png",
+        "ETag": "\"63d6d747da6df1c70ead48adc3d06941217e7e7fd49f4cb715653bb6ef6caff0\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 180,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/FireBall.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/FireBall.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "6ec593e2e274e17e9486c3cab1528e62afc05441",
+      "path": "CardArt/code-otter/FireBall.png",
+      "category": "CardArt",
+      "purpose": "火球技能插画，可作热浪攻击占位",
+      "bytes": 5017,
+      "sha256": "c1009e36003e40f55b9f40bad73e7d69509deaf38fe84432b1b3d26c02e8c0a7",
+      "blob_sha": "6ec593e2e274e17e9486c3cab1528e62afc05441",
+      "response_headers": {
+        "Content-Length": "5017",
+        "Content-Type": "image/png",
+        "ETag": "\"f2e0a3feb9fb7c1cf35d43b0315bce1d620d2f4b02d50f45044cc29be0fae043\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 180,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/CardView.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/CardView.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "a1555fd96e92b20461e02054a878c9c5cc6cb7dd",
+      "path": "CardFrames/code-otter/CardView.png",
+      "category": "CardFrames",
+      "purpose": "基础卡牌面板模板，叠加自定义插画和文本",
+      "bytes": 17662,
+      "sha256": "5a555c64cea659d097d21d9fd27e0c4e7b90aa5c81fd228a393edf2975d45a29",
+      "blob_sha": "a1555fd96e92b20461e02054a878c9c5cc6cb7dd",
+      "response_headers": {
+        "Content-Length": "17662",
+        "Content-Type": "image/png",
+        "ETag": "\"81a16a3d8cfbb2a7146a0793b1bf34149a840abfdb266aef4b8198775a2ca455\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 600,
+        "height": 720,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Cardback.psd",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "tWpkCKba",
+      "path": "CardFrames/gremious-hd/Cardback.psd",
+      "category": "CardFrames",
+      "purpose": "可编辑卡背模板，适合更换云纹和配色",
+      "bytes": 1896328,
+      "sha256": "a89ea87030384fc448bb4ce4b4980911f5439364e57b38dbf44e77362e41f5d7",
+      "blob_sha": "f36b3ad9725dfc430ef2806f24f43341e384a348",
+      "response_headers": {
+        "Content-Length": "1896328",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "mode": "RGBA",
+        "format": "PSD"
+      },
+      "selected": true,
+      "mega_mac_verified": false,
+      "psd": {
+        "width": 1024,
+        "height": 1024,
+        "header_version": 1,
+        "layer_count": 7,
+        "vector_mask_layers": 0,
+        "layer_names": [
+          "Curse Original",
+          "Colorless Original",
+          "Card Bg",
+          "bg_power_gray",
+          "bg_skill_gray",
+          "Using green cause colorless one has a weird texture",
+          "Color"
+        ],
+        "channel_depth": 8
+      },
+      "composite_preview": {
+        "path": "Previews/community-supplement-2026-10/psd/Cardback.png",
+        "bytes": 81789,
+        "sha256": "31d211365619acf2dca999b1f2a556a8509759ea2b4f72c44974fe19bf284314",
+        "blob_sha": "ef413eaa7aabb16c104f23906be69c7303630c3a"
+      }
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "EmptyAttack.psd",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "IegQ0Qhb",
+      "path": "CardFrames/gremious-hd/EmptyAttack.psd",
+      "category": "CardFrames",
+      "purpose": "空白攻击卡面插画裁切/蒙版模板；不是包含边框文字的完整卡框",
+      "bytes": 426194,
+      "sha256": "e24f03c236e246574318c337e89ee3360775efca00416b45230669295d7a687a",
+      "blob_sha": "1cc5ca6ccc8208dba745525766d4de7d62bf5795",
+      "response_headers": {
+        "Content-Length": "426194",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1000,
+        "height": 760,
+        "mode": "RGBA",
+        "format": "PSD"
+      },
+      "selected": true,
+      "mega_mac_verified": false,
+      "psd": {
+        "width": 1000,
+        "height": 760,
+        "header_version": 1,
+        "layer_count": 5,
+        "vector_mask_layers": 0,
+        "layer_names": [
+          "Group 1",
+          "BIG attack copy 8",
+          "Layer 91",
+          "Layer 140",
+          "Banner"
+        ],
+        "channel_depth": 8
+      },
+      "composite_preview": {
+        "path": "Previews/community-supplement-2026-10/psd/EmptyAttack.png",
+        "bytes": 4739,
+        "sha256": "f5cb30985cac9251a6a919667ea6b73ede9697794675440422fd488d173745de",
+        "blob_sha": "5243cf7b1a17a2de772ffcc4c62245bc864ce30a"
+      }
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "EmptyPower.psd",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "Behm0ahA",
+      "path": "CardFrames/gremious-hd/EmptyPower.psd",
+      "category": "CardFrames",
+      "purpose": "空白能力卡面插画裁切/蒙版模板；不是包含边框文字的完整卡框",
+      "bytes": 443670,
+      "sha256": "684c5be9e15b9f62eac4ec9bf8794d34b107ac4e096ba9fe625c90aeb2f8eab6",
+      "blob_sha": "d86cd357aa976c626c218fe76c367cf17843a041",
+      "response_headers": {
+        "Content-Length": "443670",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1000,
+        "height": 740,
+        "mode": "RGBA",
+        "format": "PSD"
+      },
+      "selected": true,
+      "mega_mac_verified": false,
+      "psd": {
+        "width": 1000,
+        "height": 740,
+        "header_version": 1,
+        "layer_count": 5,
+        "vector_mask_layers": 0,
+        "layer_names": [
+          "Empty",
+          "Layer 8 copy 3",
+          "Layer 1",
+          "Layer 15",
+          "Banner"
+        ],
+        "channel_depth": 8
+      },
+      "composite_preview": {
+        "path": "Previews/community-supplement-2026-10/psd/EmptyPower.png",
+        "bytes": 10420,
+        "sha256": "4186725675bbed1d39e1c5a30c406d40d37144b876141286a46c21df8059d121",
+        "blob_sha": "427b86204bae16e1fcf8dd9f9fbfc804c6a0a54c"
+      }
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "EmptySkill.psd",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "wC50QAKS",
+      "path": "CardFrames/gremious-hd/EmptySkill.psd",
+      "category": "CardFrames",
+      "purpose": "空白技能卡面插画裁切/蒙版模板；不是包含边框文字的完整卡框",
+      "bytes": 422444,
+      "sha256": "58682353f821884aa40e3d34d74dfe035d42b4030a238e298c7a85f959c36c9c",
+      "blob_sha": "0bfb1c35ac58677c17e2e36c149d963a0f249762",
+      "response_headers": {
+        "Content-Length": "422444",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1000,
+        "height": 760,
+        "mode": "RGBA",
+        "format": "PSD"
+      },
+      "selected": true,
+      "mega_mac_verified": false,
+      "psd": {
+        "width": 1000,
+        "height": 760,
+        "header_version": 1,
+        "layer_count": 4,
+        "vector_mask_layers": 0,
+        "layer_names": [
+          "Group 1",
+          "BIG Skill copy 10",
+          "Layer 95",
+          "Banner"
+        ],
+        "channel_depth": 8
+      },
+      "composite_preview": {
+        "path": "Previews/community-supplement-2026-10/psd/EmptySkill.png",
+        "bytes": 4739,
+        "sha256": "f5cb30985cac9251a6a919667ea6b73ede9697794675440422fd488d173745de",
+        "blob_sha": "5243cf7b1a17a2de772ffcc4c62245bc864ce30a"
+      }
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Poison Card Background.psd",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "wWI1HYwa",
+      "path": "CardFrames/gremious-hd/Poison_Card_Background.psd",
+      "category": "CardFrames",
+      "purpose": "毒素卡牌背景，重绘为雾霾或腐蚀主题",
+      "bytes": 827115,
+      "sha256": "7ddcd5d0b5a77aba46fa0d8beaa8bbce432b7d31e72de5cb316f7cb40a53e310",
+      "blob_sha": "ddd216861b8af39cf669b76357b4f3fdde1d8f0c",
+      "response_headers": {
+        "Content-Length": "827115",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 488,
+        "height": 363,
+        "mode": "RGB",
+        "format": "PSD"
+      },
+      "selected": true,
+      "mega_mac_verified": false,
+      "psd": {
+        "width": 488,
+        "height": 363,
+        "header_version": 1,
+        "layer_count": 7,
+        "vector_mask_layers": 1,
+        "layer_names": [
+          "Poison Background",
+          "BG",
+          "Cloud",
+          "Cloud",
+          "Different type of color change",
+          "Color Change",
+          "Crippling Status"
+        ],
+        "channel_depth": 8
+      },
+      "composite_preview": {
+        "path": "Previews/community-supplement-2026-10/psd/Poison_Card_Background.png",
+        "bytes": 76490,
+        "sha256": "72e1ea9365fadd27802890d3c950086496ffea727356250e2e95ebce15194a74",
+        "blob_sha": "796c1261a4c06dbe3ef755649cbe75083b53db68"
+      }
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/CardOutline/CardBackground_Test.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/CardOutline/CardBackground_Test.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "52a937c3284ff594ad5aaaf148ed39f19919ab02",
+      "path": "Discarded/community-supplement-2026-10/CardFrames/nue-deck/CardBackground_Test.png",
+      "category": "Discarded",
+      "purpose": "简单卡牌背景占位",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:4bf9b28e719a3a1b882374f25433084be1a24a2fd0bc6f5c1bc5dd4f5a145da2\nsize 673\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/CardOutline/CardBackground_Test.png",
+      "bytes": 673,
+      "sha256": "4bf9b28e719a3a1b882374f25433084be1a24a2fd0bc6f5c1bc5dd4f5a145da2",
+      "blob_sha": "4e84f3b16c65c81303c3d63a60b37c88e0513c16",
+      "response_headers": {
+        "Content-Length": "673",
+        "Content-Type": "image/png",
+        "ETag": "\"4bf9b28e719a3a1b882374f25433084be1a24a2fd0bc6f5c1bc5dd4f5a145da2\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:25:55 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 100,
+        "height": 160,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "original_selected_path": "CardFrames/nue-deck/CardBackground_Test.png",
+      "discard_reason": "100×160手绘测试卡底，已有更清晰可编辑卡框",
+      "selected": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "PersonSneaking.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "NKQjxIgT",
+      "path": "Characters/gremious-hd/PersonSneaking.png",
+      "category": "Characters",
+      "purpose": "潜行人物剪影，事件或占位",
+      "bytes": 33062,
+      "sha256": "8c0ce2a8bd05414ca49ef6c71b092d23bd94a73e91ea1e77e65bf3c4557aebbc",
+      "blob_sha": "4d3a17c19c31ff8a4d464899aac5e7b3bc57304d",
+      "response_headers": {
+        "Content-Length": "33062",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 973,
+        "height": 968,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "PersonStanding.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "xPA1USoK",
+      "path": "Characters/gremious-hd/PersonStanding.png",
+      "category": "Characters",
+      "purpose": "站立人物剪影，事件或占位",
+      "bytes": 93573,
+      "sha256": "f76c076a16149d6c5ed2631ea9e4c9aad16e291190e26c478f1da025ae2b5721",
+      "blob_sha": "485f760cdd1970fa7386ed2b9315e1f0ea560392",
+      "response_headers": {
+        "Content-Length": "93573",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 217,
+        "height": 989,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/Characters/Hack.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Hack.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "4766d80b851c754de3961f588fe2f4f91be501ec",
+      "path": "Discarded/community-supplement-2026-10/Characters/nue-deck/Hack.png",
+      "category": "Discarded",
+      "purpose": "模板角色 Hack 静态立绘",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:67ab22fd8f90e1a0f75c96d6cabc71634d8e6b0ff2db572fbc472880367a8d03\nsize 1197\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Hack.png",
+      "bytes": 1197,
+      "sha256": "67ab22fd8f90e1a0f75c96d6cabc71634d8e6b0ff2db572fbc472880367a8d03",
+      "blob_sha": "90b5e5bdb2fc2f8055d5c0e4e12746559c03f48e",
+      "response_headers": {
+        "Content-Length": "1197",
+        "Content-Type": "image/png",
+        "ETag": "\"67ab22fd8f90e1a0f75c96d6cabc71634d8e6b0ff2db572fbc472880367a8d03\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:06 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 68,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "original_selected_path": "Characters/nue-deck/Hack.png",
+      "discard_reason": "64×68像素角色，原型样式与现有原版人物重复",
+      "selected": false
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/Characters/Jack.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Jack.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "93e496203ce55432e53b34339f0368fb88ac6e86",
+      "path": "Discarded/community-supplement-2026-10/Characters/nue-deck/Jack.png",
+      "category": "Discarded",
+      "purpose": "模板角色 Jack 静态立绘",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:d614595af1b12048432812f8cfcd28a957d97338b8afc597a714a99a919b7a64\nsize 1363\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Jack.png",
+      "bytes": 1363,
+      "sha256": "d614595af1b12048432812f8cfcd28a957d97338b8afc597a714a99a919b7a64",
+      "blob_sha": "44dc504251ad0473b6e66b1861a41629b603bbae",
+      "response_headers": {
+        "Content-Length": "1363",
+        "Content-Type": "image/png",
+        "ETag": "\"d614595af1b12048432812f8cfcd28a957d97338b8afc597a714a99a919b7a64\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:06 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 68,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "original_selected_path": "Characters/nue-deck/Jack.png",
+      "discard_reason": "64×68像素角色，原型样式与现有原版人物重复",
+      "selected": false
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/HappySlime.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/HappySlime.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "2b3a2cd57e9a5c7af061c091bf051a0b782a8ca1",
+      "path": "Enemies/code-otter/HappySlime.png",
+      "category": "Enemies",
+      "purpose": "友善表情史莱姆，事件或敌人占位",
+      "bytes": 6182,
+      "sha256": "dfdf73100f66a4ce032bb493a31609c00f107978eb4d8afaf750a718e64a2f22",
+      "blob_sha": "2b3a2cd57e9a5c7af061c091bf051a0b782a8ca1",
+      "response_headers": {
+        "Content-Length": "6182",
+        "Content-Type": "image/png",
+        "ETag": "\"f1a89719c68126444eedf66ad83ed01d77617e674fb32cb024190123a2288db2\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 180,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/RedSlime.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/RedSlime.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "998dec42ab63a45c8502239a73adf3bd3c307661",
+      "path": "Enemies/code-otter/RedSlime.png",
+      "category": "Enemies",
+      "purpose": "红色史莱姆，热元素敌人占位",
+      "bytes": 6045,
+      "sha256": "cc30f37dc969b7c0adbf0f618e990dce3eb1a1d0d6530721916f4804bb36d28e",
+      "blob_sha": "998dec42ab63a45c8502239a73adf3bd3c307661",
+      "response_headers": {
+        "Content-Length": "6045",
+        "Content-Type": "image/png",
+        "ETag": "\"a6f98dac11ec563ae0ac61c03dc6fd32dc9150f6a0a432cf9db7c65524b527b4\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 180,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/Slime.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/Slime.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "5189f0b8f3e386f3cf285154546c749873abade5",
+      "path": "Enemies/code-otter/Slime.png",
+      "category": "Enemies",
+      "purpose": "基础史莱姆，低级敌人占位",
+      "bytes": 6067,
+      "sha256": "6020648be1969ea9501c70549ad0f5578cf5ee53ab63ccc3b8f070ec0b67554a",
+      "blob_sha": "5189f0b8f3e386f3cf285154546c749873abade5",
+      "response_headers": {
+        "Content-Length": "6067",
+        "Content-Type": "image/png",
+        "ETag": "\"c91c4ec0ab96113fa60316e5d4247b3b236020cbabc11ac819b6d4f5d2273be7\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 180,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "GreenLouse.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "dbAV0S6B",
+      "path": "Enemies/gremious-hd/GreenLouse.png",
+      "category": "Enemies",
+      "purpose": "绿虱高清透明立绘",
+      "bytes": 47371,
+      "sha256": "22c9e43b4e6caea5aa9f4cddc24b77a9e56541a364df6241856ad0a93b4e83bd",
+      "blob_sha": "39a9c6c14015d7e439b967d42428bc2aff9068c5",
+      "response_headers": {
+        "Content-Length": "47371",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 953,
+        "height": 496,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "GremlinNob.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "1boUBS5b",
+      "path": "Enemies/gremious-hd/GremlinNob.png",
+      "category": "Enemies",
+      "purpose": "地精大块头高清透明立绘",
+      "bytes": 167732,
+      "sha256": "670a5fda5e4ef63b2d2fb1623f6e3dc06fe71b39adf33dbc49e7f1e7459eee1c",
+      "blob_sha": "00efc1adba17555f9da88d111b6e6823f7b545a3",
+      "response_headers": {
+        "Content-Length": "167732",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 398,
+        "height": 989,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Sentry.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "dDRjWI7K",
+      "path": "Enemies/gremious-hd/Sentry.png",
+      "category": "Enemies",
+      "purpose": "哨卫高清透明立绘",
+      "bytes": 121807,
+      "sha256": "e583e6268b2a09afb6cf90ef301db1d9e5af5342567e39be04b16e240b18df2e",
+      "blob_sha": "8fdd0612e3bfc66bdcb223e25b5352eada1ac0fc",
+      "response_headers": {
+        "Content-Length": "121807",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 382,
+        "height": 989,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "SneakyGremlin.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "4bRXCCxB",
+      "path": "Enemies/gremious-hd/SneakyGremlin.png",
+      "category": "Enemies",
+      "purpose": "潜行地精高清透明立绘",
+      "bytes": 193694,
+      "sha256": "9312076253641a77072d2dbffc380568ed834400d44e06fe108e80de801a30c7",
+      "blob_sha": "279d88979f7c4b25fbec18c876e0785607faa7c6",
+      "response_headers": {
+        "Content-Length": "193694",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 990,
+        "height": 912,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/Characters/Enemy 1.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Enemy%201.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "2363253b66f1fa3e746f1bc0cab994804a175dfb",
+      "path": "Discarded/community-supplement-2026-10/Enemies/nue-deck/Enemy_1.png",
+      "category": "Discarded",
+      "purpose": "模板敌人1，提供独立画风候选",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:90e0146be0ba831516448520338915b61a00c1224ba85f6c36ece236d4c24b1c\nsize 930\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Enemy%201.png",
+      "bytes": 930,
+      "sha256": "90e0146be0ba831516448520338915b61a00c1224ba85f6c36ece236d4c24b1c",
+      "blob_sha": "d666fd5f526fd66d14f36cac73f1ddfe27079964",
+      "response_headers": {
+        "Content-Length": "930",
+        "Content-Type": "image/png",
+        "ETag": "\"90e0146be0ba831516448520338915b61a00c1224ba85f6c36ece236d4c24b1c\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:25:55 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 68,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "original_selected_path": "Enemies/nue-deck/Enemy_1.png",
+      "discard_reason": "简单像素模板敌人，优先使用原版/HD敌人",
+      "selected": false
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/Characters/Enemy 2.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Enemy%202.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "91e00bd6311b1ff4dab657886b04b1facfbb4c26",
+      "path": "Discarded/community-supplement-2026-10/Enemies/nue-deck/Enemy_2.png",
+      "category": "Discarded",
+      "purpose": "模板敌人2，提供独立画风候选",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:a677597d45e2e225661ecc5c8ac087fe30b4af4b8cfab44f9ea87830302a7f22\nsize 744\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Enemy%202.png",
+      "bytes": 744,
+      "sha256": "a677597d45e2e225661ecc5c8ac087fe30b4af4b8cfab44f9ea87830302a7f22",
+      "blob_sha": "24b43182493d5597b3733c0ee79cbba0bad2b16f",
+      "response_headers": {
+        "Content-Length": "744",
+        "Content-Type": "image/png",
+        "ETag": "\"a677597d45e2e225661ecc5c8ac087fe30b4af4b8cfab44f9ea87830302a7f22\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:25:55 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 68,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "original_selected_path": "Enemies/nue-deck/Enemy_2.png",
+      "discard_reason": "简单像素模板敌人，优先使用原版/HD敌人",
+      "selected": false
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/Characters/Enemy 3.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Enemy%203.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "3c5b0d46ded897ced1e907babb746f32193d4e08",
+      "path": "Discarded/community-supplement-2026-10/Enemies/nue-deck/Enemy_3.png",
+      "category": "Discarded",
+      "purpose": "模板敌人3，提供独立画风候选",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:1cccba2282373baef53007d6e601972f71178dbe918d43f5e6b62097fcb802ac\nsize 840\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Characters/Enemy%203.png",
+      "bytes": 840,
+      "sha256": "1cccba2282373baef53007d6e601972f71178dbe918d43f5e6b62097fcb802ac",
+      "blob_sha": "3d3312c2ce59c5cdb42789d96f2f1fabb6870566",
+      "response_headers": {
+        "Content-Length": "840",
+        "Content-Type": "image/png",
+        "ETag": "\"1cccba2282373baef53007d6e601972f71178dbe918d43f5e6b62097fcb802ac\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:06 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 68,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "original_selected_path": "Enemies/nue-deck/Enemy_3.png",
+      "discard_reason": "简单像素模板敌人，优先使用原版/HD敌人",
+      "selected": false
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/Background.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/Background.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "6f28733e47e9bd5727abd41c616440bd3a0c20db",
+      "path": "Discarded/community-supplement-2026-10/EventBackgrounds/code-otter/Background.png",
+      "category": "Discarded",
+      "purpose": "战斗场景背景，作为简单二维原型背景",
+      "bytes": 4822867,
+      "sha256": "b91909ae705b422865e1d6aa11285622bff027762c3963b53e4cde2906631eaf",
+      "blob_sha": "6f28733e47e9bd5727abd41c616440bd3a0c20db",
+      "response_headers": {
+        "Content-Length": "4822867",
+        "Content-Type": "image/png",
+        "ETag": "\"1559ab10074b9bd05722ba64d58676de57f2b79486761d31b2e476e28a181b34\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 3840,
+        "height": 2160,
+        "mode": "RGB",
+        "format": "PNG"
+      },
+      "original_selected_path": "EventBackgrounds/code-otter/Background.png",
+      "discard_reason": "仅大尺寸渐变色占位，已有完整背景，补充价值低",
+      "selected": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Curse.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "9XQXSSSZ",
+      "path": "EventBackgrounds/gremious-hd/Curse.png",
+      "category": "EventBackgrounds",
+      "purpose": "诅咒背景图，适合危险事件",
+      "bytes": 386203,
+      "sha256": "b16a762e82ceb3f5f1ded99f0f69737a0877e8b9888e07f6e5efe24a93692992",
+      "blob_sha": "b052886a1a6b9b79dcd2f0377dfa2276c853a858",
+      "response_headers": {
+        "Content-Length": "386203",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1000,
+        "height": 760,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/campfire.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/campfire.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "ab31c261ec812404db42e9b905d4c7ea3b34a07e",
+      "path": "Maps/game-icons-fantasy/campfire.svg",
+      "category": "Maps",
+      "purpose": "营地、休息路线节点",
+      "bytes": 1678,
+      "sha256": "132fff7f2222a6ffb5017f4049d556c2997f7dd40f3d2c4ef0f7b02924eb6309",
+      "blob_sha": "ab31c261ec812404db42e9b905d4c7ea3b34a07e",
+      "response_headers": {
+        "Content-Length": "1678",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"93e77d5565ffe48278f8e0afac03e374872ae31d11917522ef0deac4a79d0fc8\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/campfire.png",
+        "bytes": 24028,
+        "sha256": "9112897738db01838362162735fd325c3c0623a2da9eb9341c5b7230bb3ecf5c",
+        "blob_sha": "5d424e1d56db5449042f174b7671d9c2c843e5a0",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/confrontation.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/confrontation.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "1dc235bd1f2731d5c9dc943ac23b8e7683c2e6ce",
+      "path": "Maps/game-icons-fantasy/confrontation.svg",
+      "category": "Maps",
+      "purpose": "精英遭遇节点",
+      "bytes": 5049,
+      "sha256": "deff88216a2e911c19d1f72e04e9461ef518b4f9412a4f0117f4a0d861fe8beb",
+      "blob_sha": "1dc235bd1f2731d5c9dc943ac23b8e7683c2e6ce",
+      "response_headers": {
+        "Content-Length": "5049",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"889724398e5863e950e54ffb50b2590901e95b01a69ffe9889605488381dd1a8\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/confrontation.png",
+        "bytes": 24054,
+        "sha256": "c54a9ce4f0632b01aa1c360244e9dca87bc9042cb3113b9015688cb72de59fcc",
+        "blob_sha": "80c1854778590e0923b2a13bb63747d5acc2cdc2",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/crossed-swords.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/crossed-swords.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "38f2a8c74b206fc0285f470c1731e62aa0e310f2",
+      "path": "Maps/game-icons-fantasy/crossed-swords.svg",
+      "category": "Maps",
+      "purpose": "普通战斗节点",
+      "bytes": 1254,
+      "sha256": "d977de17aa347c15a311e96ee4c7194837e47d119d2b5a06bc1dbbd2cd1a92f2",
+      "blob_sha": "38f2a8c74b206fc0285f470c1731e62aa0e310f2",
+      "response_headers": {
+        "Content-Length": "1254",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"2771020bb884a15b2f482345de6a2dc5180454a5ea769eb4eabb46522a7255a0\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/crossed-swords.png",
+        "bytes": 20392,
+        "sha256": "f0f74aa06fffd54601ea6bd492b653781f1dc433f94a5651439c9939941e8eb1",
+        "blob_sha": "806e3fcfe58deb828d1535661783921fc51c757c",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/crystal-ball.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/crystal-ball.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "7c0c8482ab0620171a53fdb3273f081ba37732a3",
+      "path": "Maps/game-icons-fantasy/crystal-ball.svg",
+      "category": "Maps",
+      "purpose": "未知事件与预知节点",
+      "bytes": 1351,
+      "sha256": "5bd0091b48f9a8fdb68a9ef3a1c85979052655466d08a2d1797f1d4bc5beba1a",
+      "blob_sha": "7c0c8482ab0620171a53fdb3273f081ba37732a3",
+      "response_headers": {
+        "Content-Length": "1351",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"2f768360c44e4ab9dad3b885b3686e15dd699b02084c5708a7674c14d8375df3\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/crystal-ball.png",
+        "bytes": 20473,
+        "sha256": "8727e0977f75a4bf57bb38b8cd894137f0f4a3581e66467664727cb3c3c8af7b",
+        "blob_sha": "bab37f2b61d11427f8170cb62ba8b98ed97ddee3",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/locked-chest.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/locked-chest.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "fa57db9520025ad9109b2dff7ddf097b4686ad18",
+      "path": "Maps/game-icons-fantasy/locked-chest.svg",
+      "category": "Maps",
+      "purpose": "宝箱、奖励节点",
+      "bytes": 1609,
+      "sha256": "d4a2124e86e071dfd8f6d8c007413ec6f4795104698bb3f49c5bfcc04a17e2a7",
+      "blob_sha": "fa57db9520025ad9109b2dff7ddf097b4686ad18",
+      "response_headers": {
+        "Content-Length": "1609",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"1749a692e6bae075030d21f4d28ad76800cb496d41962ee1e1475b405a538fee\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/locked-chest.png",
+        "bytes": 19758,
+        "sha256": "407f5dff8ac861361fcdbd67905b931d706baf13321dd2ab9d727a61d6d0702c",
+        "blob_sha": "a203a4f3d284b88e62f4612d774859d75e9b5c15",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/shop.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/shop.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "265b69677555fb3ba5eb3733e71a2f100e147549",
+      "path": "Maps/game-icons-fantasy/shop.svg",
+      "category": "Maps",
+      "purpose": "商店节点",
+      "bytes": 1674,
+      "sha256": "6cc8624153d0cdc29babb993d6f1de5d50f848cc77f61df3fd1bdc7123c0e69d",
+      "blob_sha": "265b69677555fb3ba5eb3733e71a2f100e147549",
+      "response_headers": {
+        "Content-Length": "1674",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"52be64091371a77ffadd2f08a1e2f3be254df1865ed0f475378515b56595f567\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/shop.png",
+        "bytes": 11794,
+        "sha256": "14bae1338529f32bda6e851634e10db1b3a02144396aa55992e4d8aae8388cca",
+        "blob_sha": "b71e79a4c0a100f9b355c142fe8c1a31512c0b6a",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/stone-tower.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/stone-tower.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "c96591a9bb00b812459b1c4fa1ef1468517a25d5",
+      "path": "Maps/game-icons-fantasy/stone-tower.svg",
+      "category": "Maps",
+      "purpose": "章节终点、塔楼节点",
+      "bytes": 685,
+      "sha256": "38013e8d79d3e02f036fabf5b450ca960235a806e5b79c22fa77f739db480d1c",
+      "blob_sha": "c96591a9bb00b812459b1c4fa1ef1468517a25d5",
+      "response_headers": {
+        "Content-Length": "685",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"6e81c1658ab3b1ebdc65a8469027f1b6fb8d807895ab178fc69ca6a00b5c6e2c\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/stone-tower.png",
+        "bytes": 6191,
+        "sha256": "8e4938127471a8d7507a7a62443fbe5e232be8d8dde75939f00b6b9bec0b8b59",
+        "blob_sha": "ed4d769f0e9d2dee7f7202de79ec30a74c5fcb10",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/treasure-map.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/treasure-map.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "29a7bc4c52c4931e889753738e1a3d076956f772",
+      "path": "Maps/game-icons-fantasy/treasure-map.svg",
+      "category": "Maps",
+      "purpose": "地图入口与路线界面",
+      "bytes": 2145,
+      "sha256": "514ec6a9b97e74f10cbb212357819b44feaac26e0e2d461862d59b58f67ffa52",
+      "blob_sha": "29a7bc4c52c4931e889753738e1a3d076956f772",
+      "response_headers": {
+        "Content-Length": "2145",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"83f5525fead4595295d59fa4a8e445e0f477737ba7310e6e51919b216411b2b8\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Maps/game-icons-fantasy/treasure-map.png",
+        "bytes": 23557,
+        "sha256": "967ad61125a826c8a3e016461854a98517e1ebae9306e20ca171fbcc07da9cf7",
+        "blob_sha": "aa473758cbbd674c96b4d4a38c2f4a259037288a",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/PerkExample.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/PerkExample.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "08115cdca51ce66ff5ec0b90f53c0edd75f67c3d",
+      "path": "Discarded/community-supplement-2026-10/Relics/code-otter/PerkExample.png",
+      "category": "Discarded",
+      "purpose": "天赋或遗物占位图",
+      "bytes": 3562,
+      "sha256": "17c63a32d25a3a00fe158f41707885e589f469aa50ca8edba97e7cbfac4875c4",
+      "blob_sha": "08115cdca51ce66ff5ec0b90f53c0edd75f67c3d",
+      "response_headers": {
+        "Content-Length": "3562",
+        "Content-Type": "image/png",
+        "ETag": "\"4eb0af32194835189c2f5ea89cb02af271ad71814befcd0ae8f9606a7f937cf0\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 180,
+        "height": 180,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "original_selected_path": "Relics/code-otter/PerkExample.png",
+      "discard_reason": "粉色交叉武器占位，已收录更完整路线/技能图标",
+      "selected": false
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/compass.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/compass.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "82985d65f6a03f47c2398a5c7f567bf4bfa1eab5",
+      "path": "Relics/game-icons-fantasy/compass.svg",
+      "category": "Relics",
+      "purpose": "风向罗盘遗物",
+      "bytes": 1528,
+      "sha256": "beb88d002e3f2e3759a41c626ff67f52b9d92d70605a24e8e8d3ea9915208f20",
+      "blob_sha": "82985d65f6a03f47c2398a5c7f567bf4bfa1eab5",
+      "response_headers": {
+        "Content-Length": "1528",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"26ca0ac276b8e49bb9f4b6bef8cb46bf0f5089a53b416d1a9cbf2e085fa0f668\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Relics/game-icons-fantasy/compass.png",
+        "bytes": 23627,
+        "sha256": "48cd29c660759c4c25fe1d2da9a0552637afc0b26d340cf94493f56cb3a7c4d0",
+        "blob_sha": "f3e8a106207ea2ee018ff7f9943b2abbc22dd772",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/snow-bottle.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/snow-bottle.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "3a1ad4f75a9f1e49071ed45dfb2bdb7b7b14ea54",
+      "path": "Relics/game-icons-fantasy/snow-bottle.svg",
+      "category": "Relics",
+      "purpose": "封存雪暴的瓶装遗物",
+      "bytes": 2547,
+      "sha256": "75a0896137de29a9f4324b01b030c7b5b2472285705443cdd995cac0019f4b23",
+      "blob_sha": "3a1ad4f75a9f1e49071ed45dfb2bdb7b7b14ea54",
+      "response_headers": {
+        "Content-Length": "2547",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"b3126cdfe79b247e9cfa43189ddf9b04579b7cb3848086ad330ccf328266e78e\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Relics/game-icons-fantasy/snow-bottle.png",
+        "bytes": 24809,
+        "sha256": "779eb1bd14f6c2ba6d349b54184b34f93e0a2562cfe9dc879dbeb7bb374e1d01",
+        "blob_sha": "a9a0c3652225917f07dcfb91808309f46a9f20aa",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/thermometer-scale.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/thermometer-scale.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "5592be2fd9df26eae264e66a36e13cfa7069f76f",
+      "path": "Relics/game-icons-fantasy/thermometer-scale.svg",
+      "category": "Relics",
+      "purpose": "温度刻度遗物与测量图标",
+      "bytes": 567,
+      "sha256": "198dd962ad89a0af858f8cc0dd06b9a0119ecf8f5cc787e782e5a9987f9479a6",
+      "blob_sha": "5592be2fd9df26eae264e66a36e13cfa7069f76f",
+      "response_headers": {
+        "Content-Length": "567",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"5221e61aff942e44857bde2dff750420aaa955a27a868ca5084f425ce9bb64a0\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Relics/game-icons-fantasy/thermometer-scale.png",
+        "bytes": 2699,
+        "sha256": "95fbbc00fa8ed739fea1be5146b115973adb99178daf91a6141cfcc51d6930ab",
+        "blob_sha": "40763831166a9fd3a50bef3eb27a5e918d353e16",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/umbrella.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/umbrella.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "c9985d9bcc6a492ac8c91b6317baf3c62c4315f8",
+      "path": "Relics/game-icons-fantasy/umbrella.svg",
+      "category": "Relics",
+      "purpose": "防雨护盾、雨具遗物",
+      "bytes": 1326,
+      "sha256": "509433edc03214cfee9d131cbb08789e792fc199dbee40586be10bb30cd4586e",
+      "blob_sha": "c9985d9bcc6a492ac8c91b6317baf3c62c4315f8",
+      "response_headers": {
+        "Content-Length": "1326",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"fd570cb0cf09233b6af969e9e5dbc035836c0bde2c31bbba6c114ad827aae425\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Relics/game-icons-fantasy/umbrella.png",
+        "bytes": 14131,
+        "sha256": "685d4a667912ab1661589d4b8d65dd1fa1119f26282c196d3bdc2f16b79403a3",
+        "blob_sha": "91cd3051c27d9b6a89364996845659f2c0f6d972",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/wind-turbine.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/wind-turbine.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "bb02cdd627f2532d6e6dee0c227021f32bb402de",
+      "path": "Relics/game-icons-fantasy/wind-turbine.svg",
+      "category": "Relics",
+      "purpose": "风能装置、蓄能遗物",
+      "bytes": 729,
+      "sha256": "89d6046b83b492b5c77b9ae413defdc15d776442539a89558ff6274e2bc20f12",
+      "blob_sha": "bb02cdd627f2532d6e6dee0c227021f32bb402de",
+      "response_headers": {
+        "Content-Length": "729",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"94f8c33b22f83ffa5017be90a6c2736bac4fafb2f368068580d6a2c65af3cdd5\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Relics/game-icons-fantasy/wind-turbine.png",
+        "bytes": 11271,
+        "sha256": "50d5c887ade57dd8549b95874ab1ac03c27be3b06e35b66d7fc7d480649f1202",
+        "blob_sha": "e86e4168dacf275b39c07df51d55df57d307e297",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/windsock.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/windsock.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "bbdf4346289686b143a557008321913e9f005f85",
+      "path": "Relics/game-icons-fantasy/windsock.svg",
+      "category": "Relics",
+      "purpose": "风向袋、观测仪器遗物",
+      "bytes": 496,
+      "sha256": "8e7c0ef9999fb09fec86cb205daf303ebdd563f197069d30a1ebfa0db968afd0",
+      "blob_sha": "bbdf4346289686b143a557008321913e9f005f85",
+      "response_headers": {
+        "Content-Length": "496",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"fe9e493e201db1e67ff85787b48bd77e4ed96823c34b425dcad408cf385744b8\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "Relics/game-icons-fantasy/windsock.png",
+        "bytes": 12188,
+        "sha256": "9878b910ed787f376d1c027cfa3472ac31561b464f531fcd893976fde145553a",
+        "blob_sha": "8edbda79145d15210729de7d5afc5ab7497c6f38",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Coin.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "gLYxjaJa",
+      "path": "Relics/gremious-hd/Coin.png",
+      "category": "Relics",
+      "purpose": "金币高清图，货币与奖励",
+      "bytes": 125058,
+      "sha256": "d6e02b872974f78dae0491ecec5c43357ec6e8e7ff10dbbaeca76d4f0a032765",
+      "blob_sha": "4e1dab78f2144a0f6fd770fdb8a8562874408c28",
+      "response_headers": {
+        "Content-Length": "125058",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 957,
+        "height": 377,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "J.A.X..png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "oHQziYQI",
+      "path": "Relics/gremious-hd/JAX.png",
+      "category": "Relics",
+      "purpose": "J.A.X. 物品高清图，药剂或强化道具参考",
+      "bytes": 51770,
+      "sha256": "2b43a13f83923ca60c71f292c14f82a3d19072ee7bb81576ead1be1725bb7bb3",
+      "blob_sha": "d7ba0c798c815de6e1acef6e5386baf833ac4dc4",
+      "response_headers": {
+        "Content-Length": "51770",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 233,
+        "height": 975,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Relic Template.psd",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "RWomTQAA",
+      "path": "Relics/gremious-hd/Relic_Template.psd",
+      "category": "Relics",
+      "purpose": "遗物绘制PSD模板，含导出说明/参考层；需自行绘制气象仪器并裁切导出",
+      "bytes": 392302,
+      "sha256": "c12130747e0fc0439c8d5e8f036d35e203d5f0c733b0acb84e5ded076daeb026",
+      "blob_sha": "39d5fe85be8968d45a120b6740bb0a8020fa9390",
+      "response_headers": {
+        "Content-Length": "392302",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1536,
+        "height": 1536,
+        "mode": "RGBA",
+        "format": "PSD"
+      },
+      "selected": true,
+      "mega_mac_verified": false,
+      "psd": {
+        "width": 1536,
+        "height": 1536,
+        "header_version": 1,
+        "layer_count": 15,
+        "vector_mask_layers": 0,
+        "layer_names": [
+          "Bottled Placeholder",
+          "In-Game BG color",
+          "BG",
+          "BG",
+          "Guides",
+          "Box",
+          "Official Guide",
+          "Wrist Blade",
+          "Bottled Placeholder",
+          "Outline",
+          "Bottled Placeholder",
+          "Placeholder Relic",
+          "Empty Bottle",
+          "Layer 1",
+          "Right-Click the artboard ^, Export as, 50% Scale"
+        ],
+        "channel_depth": 8
+      },
+      "composite_preview": {
+        "path": "Previews/community-supplement-2026-10/psd/Relic_Template.png",
+        "bytes": 31410,
+        "sha256": "dcf82c74b9b9d20277766fdf0bbf8b6c8aeb36a8975bcd01d30a9a4c3f853512",
+        "blob_sha": "f8fd944a8dc3ea5e252a297c8cfabda1a595bef4"
+      }
+    },
+    {
+      "source": "icons",
+      "source_path": "README.md",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/README.md",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "39bf2cabea2489408920ac2c921db4a6b502130d",
+      "path": "Sources/game-icons-fantasy/UPSTREAM-README.md",
+      "category": "Sources",
+      "purpose": "上游说明与 CC BY 3.0 来源",
+      "bytes": 1580,
+      "sha256": "b429361fa8b4578472a6c347e30965357ff94a3de2528e1e92fe979037936eff",
+      "blob_sha": "39bf2cabea2489408920ac2c921db4a6b502130d",
+      "response_headers": {
+        "Content-Length": "1580",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"13a54186113289c03d9da0041494c4f2213069b8408255d26181fe98341b0c38\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "author": null
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "GreenLouse.7z",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "tfIhkaxA",
+      "path": "Sources/gremious-hd/GreenLouse.7z",
+      "category": "Sources",
+      "purpose": "较小怪物编辑源归档，解包检查后说明内容",
+      "bytes": 110623,
+      "sha256": "f6e00ac73f2f02e2c745dec2793ffa9636399c6d0adde7b7b179965c87bc1e8b",
+      "blob_sha": "a6b0ff148b2ef34f6b3fbbeed6fa6bf8ba00236a",
+      "response_headers": {
+        "Content-Length": "110623",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "selected": true,
+      "mega_mac_verified": false,
+      "archive_members": [
+        {
+          "path": "GreenLouse.psd",
+          "bytes": 3909306,
+          "sha256": "9dd4b4f19b50ad499b3828a2f0b5d87447ac72a770d5b75aff46ca436d156868",
+          "blob_sha": "fa7119131c56a14da6cfac514d7979f4b95b3368"
+        }
+      ]
+    },
+    {
+      "source": "nue",
+      "source_path": "LICENSE",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/LICENSE",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "e6bd0c119bcfaad8fbd393a0effbb65aea14b26b",
+      "path": "Sources/nue-deck/LICENSE",
+      "category": "Sources",
+      "purpose": "上游项目说明与 MIT 许可",
+      "bytes": 1074,
+      "sha256": "d9af936c74918dd6a2cd5bc65233067bf4ff9c78acaa552190607b0562f63fb2",
+      "blob_sha": "e6bd0c119bcfaad8fbd393a0effbb65aea14b26b",
+      "response_headers": {
+        "Content-Length": "1074",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"0873380f8c4b30f437e71a6ae0dc4db549cff432a6b8316b38b24592bdd14013\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "nue",
+      "source_path": "README.md",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/README.md",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "cdb901948d1462599bee14e56331f0d550c05224",
+      "path": "Sources/nue-deck/UPSTREAM-README.md",
+      "category": "Sources",
+      "purpose": "上游项目说明与 MIT 许可",
+      "bytes": 1148,
+      "sha256": "9765293925287edb2495ba3950cb6b76c899eb60313d9f778d3e409e85c5ab35",
+      "blob_sha": "cdb901948d1462599bee14e56331f0d550c05224",
+      "response_headers": {
+        "Content-Length": "1148",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"e71529801edc6107544a777a879d34272b430f60a630a68fcdffc6ba493e90d4\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/ArrowHead.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/ArrowHead.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "3d05a41a35c5c61c21d613271ee7b3df21a95736",
+      "path": "UI/code-otter/ArrowHead.png",
+      "category": "UI",
+      "purpose": "目标箭头尖端，配合曲线路径绘制",
+      "bytes": 3307,
+      "sha256": "f715b88a4f7412e42f006d75dc88d53010c4d4dc85131134937d37f4f2bca8c4",
+      "blob_sha": "3d05a41a35c5c61c21d613271ee7b3df21a95736",
+      "response_headers": {
+        "Content-Length": "3307",
+        "Content-Type": "image/png",
+        "ETag": "\"c31e4e76b684f80f410957a4ff18d16ac91e7bea1d479ab9c3c74fa4277b2cb0\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 360,
+        "height": 360,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/ManaBackground.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/ManaBackground.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "8d5717e6ee774c287843c19b423d4d54d467b4de",
+      "path": "UI/code-otter/ManaBackground.png",
+      "category": "UI",
+      "purpose": "法力或天气能量计数底板",
+      "bytes": 5701,
+      "sha256": "9a94007da00295d2cb252f0c53a2699eda6753cf44803f99fdb8fd3b0d33ecdb",
+      "blob_sha": "8d5717e6ee774c287843c19b423d4d54d467b4de",
+      "response_headers": {
+        "Content-Length": "5701",
+        "Content-Type": "image/png",
+        "ETag": "\"a81a2ca38bb28819ef1c0ab32433074eb5285ad15895f3b228047a110902960f\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 360,
+        "height": 360,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/SE_Armor.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/SE_Armor.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "e9f6285896c5c8d63247cfbc5419a1d410852302",
+      "path": "UI/code-otter/SE_Armor.png",
+      "category": "UI",
+      "purpose": "护甲状态小图标",
+      "bytes": 1188,
+      "sha256": "c53221c63326fdd2fd9fc76ae53a8e9c43bdd5450d673ddce5943dce91d6cbfa",
+      "blob_sha": "e9f6285896c5c8d63247cfbc5419a1d410852302",
+      "response_headers": {
+        "Content-Length": "1188",
+        "Content-Type": "image/png",
+        "ETag": "\"b385455580cb43688ff26663be8ae9988f94612d120a83cd11539125377edc87\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 60,
+        "height": 60,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "otter",
+      "source_path": "Sprites/SE_Fire.png",
+      "source_url": "https://raw.githubusercontent.com/TheCodeOtter/STS/b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c/Sprites/SE_Fire.png",
+      "source_commit": "b7be67fa9bbcb150dd2db93c487e1c9b87fe6e6c",
+      "expected_blob": "14678877437e030da36d2a7bd30c007fa119acd2",
+      "path": "UI/code-otter/SE_Fire.png",
+      "category": "UI",
+      "purpose": "燃烧状态小图标",
+      "bytes": 1067,
+      "sha256": "692ddbf03c358fa540a813c0507a28b69712ca8fe934d4bb4cd4fedc826dfbda",
+      "blob_sha": "14678877437e030da36d2a7bd30c007fa119acd2",
+      "response_headers": {
+        "Content-Length": "1067",
+        "Content-Type": "image/png",
+        "ETag": "\"d1bec4911dc2047b9370d8013e55c574b146174eddd86ee1c807ddd09a3cc086\""
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 60,
+        "height": 60,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Crippled Status.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "BSZDSQqT",
+      "path": "UI/gremious-hd/Crippled_Status.png",
+      "category": "UI",
+      "purpose": "削弱或肢体异常状态图标",
+      "bytes": 26844,
+      "sha256": "45dc98eda11dca99f2bb71b3e457bb8951680a519b2a19b17a59bca88d929e3f",
+      "blob_sha": "98f665807d13b8a3e654bcd63e036514a5ef3e61",
+      "response_headers": {
+        "Content-Length": "26844",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1000,
+        "height": 1000,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "grem-mega",
+      "source_path": "Unknown.png",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "ReRHXYIY",
+      "path": "UI/gremious-hd/Unknown.png",
+      "category": "UI",
+      "purpose": "问号意图图标，未知敌人行为",
+      "bytes": 55098,
+      "sha256": "2d7457d213348d6c51271b39ad5e4378c93209431d291ee149422c73e867cc4f",
+      "blob_sha": "4f6b5c9455519507655cb3de3e93c22f5b3cc6ef",
+      "response_headers": {
+        "Content-Length": "55098",
+        "Content-Type": "application/octet-stream"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 1000,
+        "height": 1000,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "mega_mac_verified": false
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/Buttons/Buttons-Sheet.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Buttons/Buttons-Sheet.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "4d68d21f2f702274317c62a7b5e650ad64c2cc6e",
+      "path": "UI/nue-deck/Buttons-Sheet.png",
+      "category": "UI",
+      "purpose": "按钮图集候选，需按实际区域切分",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:9266ae37bdd5b2494ad28718329091ab6d3dc411f1facd97392d8fdb536f29db\nsize 7061\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Buttons/Buttons-Sheet.png",
+      "bytes": 7061,
+      "sha256": "9266ae37bdd5b2494ad28718329091ab6d3dc411f1facd97392d8fdb536f29db",
+      "blob_sha": "6ea3f35a9306a4a64e19dd5efa06fb9236b5b26e",
+      "response_headers": {
+        "Content-Length": "7061",
+        "Content-Type": "image/png",
+        "ETag": "\"9266ae37bdd5b2494ad28718329091ab6d3dc411f1facd97392d8fdb536f29db\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:25:55 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 256,
+        "height": 512,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/Icons/EnemyStatusIcons.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Icons/EnemyStatusIcons.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "8b42893f86e35f9d3418d9d6779a9307bec87b68",
+      "path": "UI/nue-deck/EnemyStatusIcons.png",
+      "category": "UI",
+      "purpose": "敌人意图或状态图集候选",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:a7d67aa06e7c4b5358ab6a233c973dbec93a672243a8f091f1aa8e482b6ab88a\nsize 1917\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/Icons/EnemyStatusIcons.png",
+      "bytes": 1917,
+      "sha256": "a7d67aa06e7c4b5358ab6a233c973dbec93a672243a8f091f1aa8e482b6ab88a",
+      "blob_sha": "fcef4c6f64a53d98656d910ccf7ef7a9033d1ad8",
+      "response_headers": {
+        "Content-Length": "1917",
+        "Content-Type": "image/png",
+        "ETag": "\"a7d67aa06e7c4b5358ab6a233c973dbec93a672243a8f091f1aa8e482b6ab88a\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:25:55 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 384,
+        "height": 64,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "LICENSE",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/LICENSE",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "fb99e8d0e4c83f42e2a6c920656bf107144207d0",
+      "path": "VFX/card-trail-godot/LICENSE",
+      "category": "VFX",
+      "purpose": "上游 MIT 许可全文",
+      "bytes": 1068,
+      "sha256": "a1df6106811d6d82d324537b5c9f3b4d56c91b0008448bc67f7f2dee81e2333e",
+      "blob_sha": "fb99e8d0e4c83f42e2a6c920656bf107144207d0",
+      "response_headers": {
+        "Content-Length": "1068",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"f2e3da71b187fbddfce859c220c26c8fb849be1c3215562d0f0ac8d6f2adca83\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "README.md",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/README.md",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "215d092ba9d4ae707d4de9125be6f83b540ba7c3",
+      "path": "VFX/card-trail-godot/UPSTREAM-README.md",
+      "category": "VFX",
+      "purpose": "上游来源和作者感谢，保留原内容",
+      "bytes": 263,
+      "sha256": "d60d2774a1b2a6dfc4b3dae0c44022125a1113e933370ebcf95803d006c2c300",
+      "blob_sha": "215d092ba9d4ae707d4de9125be6f83b540ba7c3",
+      "response_headers": {
+        "Content-Length": "263",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"2a41d6f23e4387e5718db8e14493cfee85ab2cc9d6fc2a1688b237d36068ef84\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_card_fly_vfx.gd",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_card_fly_vfx.gd",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "671a5185d1a6bfbe4e45b61fa17bf0acef49b57a",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_card_fly_vfx.gd",
+      "category": "VFX",
+      "purpose": "二次贝塞尔飞行、前视旋转、加速与缩小；适合卡牌投射到目标的运动参考",
+      "bytes": 7006,
+      "sha256": "dd001fe41c538fa475b942c7fec68a6f692ffc3ee79f163046f9959f12c24e5f",
+      "blob_sha": "671a5185d1a6bfbe4e45b61fa17bf0acef49b57a",
+      "response_headers": {
+        "Content-Length": "7006",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"bec6f2b0aa35a5e1f342795922ea0c5de10900755b4f765d8edf072d25bca060\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_card_fly_vfx.tscn",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_card_fly_vfx.tscn",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "aee8e2c35337c9e2d77589a15e8c80baf8b37894",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_card_fly_vfx.tscn",
+      "category": "VFX",
+      "purpose": "飞行光形与脚本挂载关系；Godot 场景格式，不可直接导入 Unity",
+      "bytes": 1817,
+      "sha256": "5744a478e2f7b763a8738cd0936fe866660e0a771b35afddbef67abb8d372055",
+      "blob_sha": "aee8e2c35337c9e2d77589a15e8c80baf8b37894",
+      "response_headers": {
+        "Content-Length": "1817",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"6de53fec8b14c23eb8e42353c9878798b34aa0b9a20a119dd88d402563aab60d\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_card_trail.gd",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_card_trail.gd",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "afe48ab3e8ddf6d17645e2d25236927fc2142f92",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_card_trail.gd",
+      "category": "VFX",
+      "purpose": "按寿命淘汰拖尾点、按移动距离补点和平滑曲线；适合移植成网格带或 TrailRenderer 行为参考",
+      "bytes": 3402,
+      "sha256": "330dd0a916f0d43a1fc12e88f5c29ed2cd438db22d5520ba3b4b3b45f3b15dc0",
+      "blob_sha": "afe48ab3e8ddf6d17645e2d25236927fc2142f92",
+      "response_headers": {
+        "Content-Length": "3402",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"3f63c0e7aa79b3a312ac50c4ec111a43392b824d168f4c1588f2f41fc55a8c1b\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_card_trail_vfx.gd",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_card_trail_vfx.gd",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "6870ff6fa97bf714cb87fc7ac9c33f278981b74e",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_card_trail_vfx.gd",
+      "category": "VFX",
+      "purpose": "跟随主体、入场显现、淡出和停止粒子；适合整理特效生命周期",
+      "bytes": 3453,
+      "sha256": "b93f7256ff5a6da362bb39acb9399737527c5712a9c02114f08c411d5267c4b1",
+      "blob_sha": "6870ff6fa97bf714cb87fc7ac9c33f278981b74e",
+      "response_headers": {
+        "Content-Length": "3453",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"27c91bee652dd9509428d915232827bc946cd48abac1e7a889b53b75ec94755e\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_card_trail_vfx.tscn",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_card_trail_vfx.tscn",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "fcc629a3c2e3f4419a3dcd1e029de1b5d54a404f",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_card_trail_vfx.tscn",
+      "category": "VFX",
+      "purpose": "三层 Line2D、宽度曲线、颜色渐变和两组粒子参数；需替换缺失贴图",
+      "bytes": 6253,
+      "sha256": "67f1398d6ed2a6f8c5671aacf3eff4ee7eca1913b506eb0e50b57e6413b20d80",
+      "blob_sha": "fcc629a3c2e3f4419a3dcd1e029de1b5d54a404f",
+      "response_headers": {
+        "Content-Length": "6253",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"2d43fa1f093b5c3c3dd7ead46f841644bd3a6ca76bde6b4439fe1e7bb38e7b2b\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_math_helper.gd",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_math_helper.gd",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "f7173a676ebb1769ff966feac116c210e413075e",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_math_helper.gd",
+      "category": "VFX",
+      "purpose": "二次贝塞尔曲线数学函数；可改写为 Unity Vector2/Vector3 计算",
+      "bytes": 464,
+      "sha256": "6426ca3143871c0c8a9ed03bc7166cc7387ca917637f34a70b848786f4b30da0",
+      "blob_sha": "f7173a676ebb1769ff966feac116c210e413075e",
+      "response_headers": {
+        "Content-Length": "464",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"8f87222848259e1bf25d2ee0a42510540da6cd075291074f37e97e74168f11e2\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_trail_demo.gd",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_trail_demo.gd",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "22fe643189cd651e2618225729ff86302308e31a",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_trail_demo.gd",
+      "category": "VFX",
+      "purpose": "演示场景控制、输入和发射逻辑；作为调参交互参考",
+      "bytes": 6767,
+      "sha256": "26359a32cd9fd5126a9f064c6c583d88ef2267b172e9ef95a8258557e0577dc7",
+      "blob_sha": "22fe643189cd651e2618225729ff86302308e31a",
+      "response_headers": {
+        "Content-Length": "6767",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"97b40acfc14393822a521f25ef0107408698ad6da28044c8e2e46fc937d13988\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "trail",
+      "source_path": "procedural_trail/procedural_trail_demo.tscn",
+      "source_url": "https://raw.githubusercontent.com/fragule-hub/learning_ss2-card_trail_vfx/2caedd8bcbf4a72f3b91c28ae11fb270c544d60a/procedural_trail/procedural_trail_demo.tscn",
+      "source_commit": "2caedd8bcbf4a72f3b91c28ae11fb270c544d60a",
+      "expected_blob": "ac23b79b658e9fe86724b9cd12d87effdcc25763",
+      "path": "VFX/card-trail-godot/procedural_trail/procedural_trail_demo.tscn",
+      "category": "VFX",
+      "purpose": "演示场景节点结构及输入界面；不作为可运行完整工程交付",
+      "bytes": 3504,
+      "sha256": "3612d73debca2736afca1fd319e713f2b10c5641f9f6cb4627e225836203f5bb",
+      "blob_sha": "ac23b79b658e9fe86724b9cd12d87effdcc25763",
+      "response_headers": {
+        "Content-Length": "3504",
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"ca3a4f9ca353ca7e9670c16041f6e2a246a38dcbede51efdd28a9b666d9bb57a\""
+      },
+      "unity_tested": false,
+      "selected": true
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/FX/BlockFx.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/BlockFx.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "1673dbd5ec8986c22a9b8b26946adb629c6dfdd8",
+      "path": "VFX/nue-deck/BlockFx.png",
+      "category": "VFX",
+      "purpose": "格挡粒子贴图；64×64单帧，可发射/缩放/淡出，不是帧动画",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:6d3600263ae0b7edb6aa1c46de54f07817d12a482f64d05d3ce046b367a23270\nsize 453\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/BlockFx.png",
+      "bytes": 453,
+      "sha256": "6d3600263ae0b7edb6aa1c46de54f07817d12a482f64d05d3ce046b367a23270",
+      "blob_sha": "da5caed290276a69b56909f0419c04374b18a5ec",
+      "response_headers": {
+        "Content-Length": "453",
+        "Content-Type": "image/png",
+        "ETag": "\"6d3600263ae0b7edb6aa1c46de54f07817d12a482f64d05d3ce046b367a23270\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:06 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 64,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "animation_frames": 1
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/FX/BloodFx.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/BloodFx.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "c80e38fb812997806a237483c7af50057c15fc58",
+      "path": "VFX/nue-deck/BloodFx.png",
+      "category": "VFX",
+      "purpose": "受击血滴粒子贴图；64×64单帧，可发射/缩放/淡出，不是帧动画",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:2e87eef57b365456119b5f97b765abd5cc964b9149a7195dda3371c56d6180f1\nsize 271\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/BloodFx.png",
+      "bytes": 271,
+      "sha256": "2e87eef57b365456119b5f97b765abd5cc964b9149a7195dda3371c56d6180f1",
+      "blob_sha": "91f0e2021573a39f0fba3bf0907dfc137910bfce",
+      "response_headers": {
+        "Content-Length": "271",
+        "Content-Type": "image/png",
+        "ETag": "\"2e87eef57b365456119b5f97b765abd5cc964b9149a7195dda3371c56d6180f1\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:06 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 64,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "animation_frames": 1
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/FX/BuffFx.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/BuffFx.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "3f3865350f24bb9ab63c5b9bd1f90cfa76458b7a",
+      "path": "VFX/nue-deck/BuffFx.png",
+      "category": "VFX",
+      "purpose": "增益蓝色光点粒子贴图；64×64单帧，可发射/缩放/淡出，不是帧动画",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:a5d04d7c89dd58c9b76c857e2b8b674229caf98641c4b0cee35fcbab9ca54a45\nsize 414\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/BuffFx.png",
+      "bytes": 414,
+      "sha256": "a5d04d7c89dd58c9b76c857e2b8b674229caf98641c4b0cee35fcbab9ca54a45",
+      "blob_sha": "576ca305c344d85b58bb3ddc88f58df6340fe83d",
+      "response_headers": {
+        "Content-Length": "414",
+        "Content-Type": "image/png",
+        "ETag": "\"a5d04d7c89dd58c9b76c857e2b8b674229caf98641c4b0cee35fcbab9ca54a45\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:16 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 64,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "animation_frames": 1
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/FX/HealFx.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/HealFx.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "7b6678b63315b636cfda8b9944a5dc353a93f8f9",
+      "path": "VFX/nue-deck/HealFx.png",
+      "category": "VFX",
+      "purpose": "治疗加号粒子贴图；64×64单帧，可发射/缩放/淡出，不是帧动画",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:080d9eb9981a806a33c63ebea0e232c2c4cc2faf9b1d55e3305747a4e016de2d\nsize 258\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/HealFx.png",
+      "bytes": 258,
+      "sha256": "080d9eb9981a806a33c63ebea0e232c2c4cc2faf9b1d55e3305747a4e016de2d",
+      "blob_sha": "b2f01401b9dd36646d5a5eba41da616b398d029e",
+      "response_headers": {
+        "Content-Length": "258",
+        "Content-Type": "image/png",
+        "ETag": "\"080d9eb9981a806a33c63ebea0e232c2c4cc2faf9b1d55e3305747a4e016de2d\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:16 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 64,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "animation_frames": 1
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/FX/PoisonlFx.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/PoisonlFx.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "831b07cfcee5583129858eaa70dd4ad2025c8131",
+      "path": "VFX/nue-deck/PoisonlFx.png",
+      "category": "VFX",
+      "purpose": "中毒符号粒子贴图；64×64单帧，可发射/缩放/淡出，不是帧动画",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:010f785b38bd76458fb3d5b1318000866a83911836c10b115c4ca78a6220013d\nsize 669\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/PoisonlFx.png",
+      "bytes": 669,
+      "sha256": "010f785b38bd76458fb3d5b1318000866a83911836c10b115c4ca78a6220013d",
+      "blob_sha": "6f214f36d05f2343dff3e10958d8083490a9d1b4",
+      "response_headers": {
+        "Content-Length": "669",
+        "Content-Type": "image/png",
+        "ETag": "\"010f785b38bd76458fb3d5b1318000866a83911836c10b115c4ca78a6220013d\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:16 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 64,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "animation_frames": 1
+    },
+    {
+      "source": "nue",
+      "source_path": "Assets/NueGames/NueDeck/Sprites/FX/StrFx.png",
+      "source_url": "https://raw.githubusercontent.com/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/StrFx.png",
+      "source_commit": "e0b61aa325064939874ad6ac4f3b551348eed4a6",
+      "expected_blob": "8a7caad1b1000eab4f401a07f831a7d0514a1e43",
+      "path": "VFX/nue-deck/StrFx.png",
+      "category": "VFX",
+      "purpose": "力量红色弧线粒子贴图；64×64单帧，可发射/缩放/淡出，不是帧动画",
+      "lfs_pointer": "version https://git-lfs.github.com/spec/v1\noid sha256:1f6853ae4ad8849e8fee0f6cf929ca8e4726e901350d16d754bf2417e5646a52\nsize 698\n",
+      "download_url": "https://media.githubusercontent.com/media/Arefnue/NueDeck/e0b61aa325064939874ad6ac4f3b551348eed4a6/Assets/NueGames/NueDeck/Sprites/FX/StrFx.png",
+      "bytes": 698,
+      "sha256": "1f6853ae4ad8849e8fee0f6cf929ca8e4726e901350d16d754bf2417e5646a52",
+      "blob_sha": "b340d2252d2f0f96850c200201d9bcc689a61443",
+      "response_headers": {
+        "Content-Length": "698",
+        "Content-Type": "image/png",
+        "ETag": "\"1f6853ae4ad8849e8fee0f6cf929ca8e4726e901350d16d754bf2417e5646a52\"",
+        "Last-Modified": "Sat, 03 Oct 2026 02:26:16 GMT"
+      },
+      "unity_tested": false,
+      "image": {
+        "width": 64,
+        "height": 64,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "selected": true,
+      "animation_frames": 1
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/cloud-ring.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/cloud-ring.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "bddd0ec3dc7eb44db7ba0bfb8ba69c5c25abc550",
+      "path": "WeatherIcons/game-icons-fantasy/cloud-ring.svg",
+      "category": "WeatherIcons",
+      "purpose": "环状云与气流结界",
+      "bytes": 1088,
+      "sha256": "aa513417812463a411eac264ad48bb8f47dcc05b7e51fbee824a5c26d2bc6038",
+      "blob_sha": "bddd0ec3dc7eb44db7ba0bfb8ba69c5c25abc550",
+      "response_headers": {
+        "Content-Length": "1088",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"67c0c2dfc43acc70db7cca226ec350a6529c86bfa637d86e78e8134a93ab4484\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/cloud-ring.png",
+        "bytes": 21891,
+        "sha256": "5816ba0a7ee04f7a1cbaf3e81f30842fe0197ebc9daec3ac9dcdacd5d26b28bc",
+        "blob_sha": "aed71d6fa453f04848aa0eac3fff082dbadee25f",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/droplet-splash.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/droplet-splash.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "59dd20fb790aa9085581fd2be7b936cd541b6ea2",
+      "path": "WeatherIcons/game-icons-fantasy/droplet-splash.svg",
+      "category": "WeatherIcons",
+      "purpose": "水滴冲击、溅射伤害",
+      "bytes": 1308,
+      "sha256": "6448ab44984f5363f733869e83b150bca876864d778d85f38dc564bd96e97b11",
+      "blob_sha": "59dd20fb790aa9085581fd2be7b936cd541b6ea2",
+      "response_headers": {
+        "Content-Length": "1308",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"49b08c6a1cbbecc82c5240a7b76a316be5ffc395f3b20926a07dc37084cd21a7\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/droplet-splash.png",
+        "bytes": 15893,
+        "sha256": "1074e64f82e458daf0d5cea7ff1dc3fe599a6b3c9ec04782ca4d0893af1bcc78",
+        "blob_sha": "e6d31000360d4587cf5051fb927a336b07f86a63",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/droplets.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/droplets.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "2cfc1155b20fdb8909d10b92d64619d83be6c97f",
+      "path": "WeatherIcons/game-icons-fantasy/droplets.svg",
+      "category": "WeatherIcons",
+      "purpose": "湿度或降水资源",
+      "bytes": 1678,
+      "sha256": "4681b2fa0b3cf0d4b6f38aa62e8e6654b5ccf9d9a8c85db90d381d4a83a922dc",
+      "blob_sha": "2cfc1155b20fdb8909d10b92d64619d83be6c97f",
+      "response_headers": {
+        "Content-Length": "1678",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"49a3a801b0a46530dedd1a374bb1e69269d8abb20dc9671efe73fbc49cb3ac68\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/droplets.png",
+        "bytes": 22448,
+        "sha256": "f189fc4343ed1708355e76b0f1031c24ed1aa0bdf46c135873b722f5a54588ea",
+        "blob_sha": "19c541916b13ccc9ebf06745c0150978aa08ad4b",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/dust-cloud.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/dust-cloud.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "b17a6d7a1e1fdfecb2a8ecf29fa2eb90551dc8d5",
+      "path": "WeatherIcons/game-icons-fantasy/dust-cloud.svg",
+      "category": "WeatherIcons",
+      "purpose": "扬尘、能见度降低",
+      "bytes": 1355,
+      "sha256": "bc3dd3fb27b6092f57debcb752203a8f8a7d10be648d618fb14a50320a6a6c47",
+      "blob_sha": "b17a6d7a1e1fdfecb2a8ecf29fa2eb90551dc8d5",
+      "response_headers": {
+        "Content-Length": "1355",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"53b40ce8f5d5b176d4666047045a453cf7fbef6356ad1e428b70f723728ec443\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/dust-cloud.png",
+        "bytes": 24605,
+        "sha256": "e64582bc5786a662bea349750d9ba22d1c5a2bf008c190ecd159b898cdf869a9",
+        "blob_sha": "cdab8708673d82f1e66f27f6af26d406a623f554",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/fluffy-cloud.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/fluffy-cloud.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "081f47e8e14b79f867eb72e08f3c0e85f09f9dd3",
+      "path": "WeatherIcons/game-icons-fantasy/fluffy-cloud.svg",
+      "category": "WeatherIcons",
+      "purpose": "云量、层云资源",
+      "bytes": 2085,
+      "sha256": "2b90b12833416626d589afa9ae6eb2076ee2eb0c2774541297ca635674adcae3",
+      "blob_sha": "081f47e8e14b79f867eb72e08f3c0e85f09f9dd3",
+      "response_headers": {
+        "Content-Length": "2085",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"758b1eaaf59fef39fde98e00c896cff58a1c3c4d8ae3a72bea34acdac0bfd7a3\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/fluffy-cloud.png",
+        "bytes": 20523,
+        "sha256": "0313d4cd159a246be3f3bd0649c845f8f70dfe6987a3d85930cf2c4cda376c6f",
+        "blob_sha": "56c45413220079acdabc677c8088401151adaf95",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/focused-lightning.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/focused-lightning.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "0b6476e476099eb3925a905a5b42cc2007bd3ba3",
+      "path": "WeatherIcons/game-icons-fantasy/focused-lightning.svg",
+      "category": "WeatherIcons",
+      "purpose": "集中雷击、蓄电释放",
+      "bytes": 376,
+      "sha256": "4bed1de9b7f2ba74d9a24b2e345b95545a8285004379f80612b8d45a42a780c7",
+      "blob_sha": "0b6476e476099eb3925a905a5b42cc2007bd3ba3",
+      "response_headers": {
+        "Content-Length": "376",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"ec6aa65c7574076bef4bd743259b372b05aa02a68f638aa6edc8a92eb4223101\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/focused-lightning.png",
+        "bytes": 17949,
+        "sha256": "06b33d1babcd3196563ab189c2be73df6bf654c2e0bba59ac1150785df954d73",
+        "blob_sha": "b7504fcda4bbf3e109430fa9e80cda0305751ca0",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/fog.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/fog.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "73a9d2ad52243db0bbd65de3316db4817b79d4d1",
+      "path": "WeatherIcons/game-icons-fantasy/fog.svg",
+      "category": "WeatherIcons",
+      "purpose": "雾、隐匿和能见度",
+      "bytes": 1932,
+      "sha256": "682f301b5523004fdd3a7e3a6e9ead169137dafb390626e5bdd2943c1172cda6",
+      "blob_sha": "73a9d2ad52243db0bbd65de3316db4817b79d4d1",
+      "response_headers": {
+        "Content-Length": "1932",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"fc2383472e27a43bd5dc550d3003a7012e1d46e94a5c1a1c975a60b0cd438809\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/fog.png",
+        "bytes": 20055,
+        "sha256": "78e913ddd74ebd5662cff0ece839f18e77d725db220cce7bc2b9611596e10d30",
+        "blob_sha": "1d71da03a1f60ef82e7c2235e37a8f21621a2bb5",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/frostfire.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/frostfire.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "f0ec6fbaaff61a870571311e14ef7439303af5eb",
+      "path": "WeatherIcons/game-icons-fantasy/frostfire.svg",
+      "category": "WeatherIcons",
+      "purpose": "冷热复合技能",
+      "bytes": 2456,
+      "sha256": "5bd01b5e90d6862a11287cb096587c8e010ff8755a3130218948c24f6caa205a",
+      "blob_sha": "f0ec6fbaaff61a870571311e14ef7439303af5eb",
+      "response_headers": {
+        "Content-Length": "2456",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"739d9f72bbdfce5d8f039e22dc944c3780b24160b6d4e8e7d5cf0af5d8fb9f6a\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/frostfire.png",
+        "bytes": 26873,
+        "sha256": "fbdea82d60935baf8b3c6beeb70ec1d516cc7dbd1e5bc32b86c0f1e312133d31",
+        "blob_sha": "a74a760a54f6f9ed9f0cee82e24412583e847d45",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/heavy-lightning.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/heavy-lightning.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "819390c69e9ebc4ddab85d85a4f9e20b6e4584bc",
+      "path": "WeatherIcons/game-icons-fantasy/heavy-lightning.svg",
+      "category": "WeatherIcons",
+      "purpose": "高伤害落雷、雷击易伤",
+      "bytes": 515,
+      "sha256": "11e3a24d2e8e12f5cdb168dcd801221965f804d968971bba313f9628237a24c8",
+      "blob_sha": "819390c69e9ebc4ddab85d85a4f9e20b6e4584bc",
+      "response_headers": {
+        "Content-Length": "515",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"5efba89204e0fd4327ee5c2f436cd15058b77a8f0618b2c8984a39d942ba161d\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/heavy-lightning.png",
+        "bytes": 18617,
+        "sha256": "3111193fe508547c2b08d6b098c1e1c436a41fb8dd1ab76a48d41c3e64680a3d",
+        "blob_sha": "9bc37abe6961c699b192ba046912e2812027fcd2",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/heavy-rain.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/heavy-rain.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "a0e38f59188fb1c1f54115506881be88a8a4bf02",
+      "path": "WeatherIcons/game-icons-fantasy/heavy-rain.svg",
+      "category": "WeatherIcons",
+      "purpose": "暴雨、降水强化",
+      "bytes": 783,
+      "sha256": "3c8e86bf1aa5ef9117494a29b9bb62ecdcafaa4607fc75a729c88e791cbf5b38",
+      "blob_sha": "a0e38f59188fb1c1f54115506881be88a8a4bf02",
+      "response_headers": {
+        "Content-Length": "783",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"1a9c5958851de3a5a8485804c7f22047f335de4c30ec617f577f529fa0619e5a\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/heavy-rain.png",
+        "bytes": 20587,
+        "sha256": "f2026b6f63aebd143ab48aa23d9a9773e1fbc48ca64daa4b90add1342e398349",
+        "blob_sha": "60efbbd34737b7b4a58ad272b275bdf5853db8cf",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/ice-bolt.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/ice-bolt.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "159c4245db5216d27603dae0dee3394a5b010f5b",
+      "path": "WeatherIcons/game-icons-fantasy/ice-bolt.svg",
+      "category": "WeatherIcons",
+      "purpose": "冰矢、寒流攻击",
+      "bytes": 2399,
+      "sha256": "d9d02772861218a9f062df5a5502e7d3aa66f805b6aa3565f8c1b587b6142b0f",
+      "blob_sha": "159c4245db5216d27603dae0dee3394a5b010f5b",
+      "response_headers": {
+        "Content-Length": "2399",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"0ad235db87598d6bac9582b3c8354b5c1702f7306f30741fd53fbb8ab440d338\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/ice-bolt.png",
+        "bytes": 30213,
+        "sha256": "5db2a55e04ab1360ab0db7c2e8cc20ecf28b77e0a57376b048e142b8a5de1eeb",
+        "blob_sha": "f989cccbb0ae89af25db3ea60db065f2a3c45ec2",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/ice-shield.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/ice-shield.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "80a8ff02f1bb62946e11c6f87bcbfea86098d3f3",
+      "path": "WeatherIcons/game-icons-fantasy/ice-shield.svg",
+      "category": "WeatherIcons",
+      "purpose": "冰盾与霜甲",
+      "bytes": 1400,
+      "sha256": "1a9df057ef871f3412179ef298d445490c83821fc379db33d9306a0255a6185c",
+      "blob_sha": "80a8ff02f1bb62946e11c6f87bcbfea86098d3f3",
+      "response_headers": {
+        "Content-Length": "1400",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"ce68595196bb369e940bebc69ea742a1b1ebba15127e6a6a996120c326bf0755\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/ice-shield.png",
+        "bytes": 20584,
+        "sha256": "e403ae9afeb9b2a02752311394ab7dccfba5380780b820eb6819198cd2eec56c",
+        "blob_sha": "6b66551e2e7abc538bcd49c777c7cdfa34912342",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/lightning-arc.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/lightning-arc.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "1ea0c4550506b1904b06251f6982dc1b667aeb72",
+      "path": "WeatherIcons/game-icons-fantasy/lightning-arc.svg",
+      "category": "WeatherIcons",
+      "purpose": "连锁电弧技能",
+      "bytes": 1725,
+      "sha256": "084c1848f248cfd41655313ff6b912fe7d4f0fd89e6423f3903e7202217d6332",
+      "blob_sha": "1ea0c4550506b1904b06251f6982dc1b667aeb72",
+      "response_headers": {
+        "Content-Length": "1725",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"c5bb878ff838ee9139f7ba94bf5b48eb2f0e6d5d9ab33f770ce07fbedcba80b1\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/lightning-arc.png",
+        "bytes": 22409,
+        "sha256": "220e9c89a898a1d3077fefb7ae3db83113eefe4dde2c554eb76094340ce8eec9",
+        "blob_sha": "5037e494f814b59a7b11a3f2b76256f4aa6bb9b1",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/lightning-branches.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/lightning-branches.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "31bb811052b6cdbf35ca25983825dd9e1e44e48c",
+      "path": "WeatherIcons/game-icons-fantasy/lightning-branches.svg",
+      "category": "WeatherIcons",
+      "purpose": "分叉落雷与多目标攻击",
+      "bytes": 1871,
+      "sha256": "327a81a54dfe041fed7c1729623c7d4b5f1354ce88722745b280c3dd70d4f940",
+      "blob_sha": "31bb811052b6cdbf35ca25983825dd9e1e44e48c",
+      "response_headers": {
+        "Content-Length": "1871",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"9bd8719564f9c714bb651fb45e7db575f00dc3528c5c9c299e731ababd71a06b\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/lightning-branches.png",
+        "bytes": 20203,
+        "sha256": "9bb33a04d19bd828b06dcb35baf93f9c6fc491e29b02ab27a70bfa16f5fbec25",
+        "blob_sha": "c60b8f92314a233e4deebc7f20081e9e7a0a5714",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/lightning-dissipation.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/lightning-dissipation.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "64642f75e532cde12fc3a51a41884c22edb5cc5e",
+      "path": "WeatherIcons/game-icons-fantasy/lightning-dissipation.svg",
+      "category": "WeatherIcons",
+      "purpose": "电荷消散、雷暴减弱",
+      "bytes": 1400,
+      "sha256": "b1a4e58f95450ba44ca521ed96c175266335cba4615b64be04bc441d5befa7d7",
+      "blob_sha": "64642f75e532cde12fc3a51a41884c22edb5cc5e",
+      "response_headers": {
+        "Content-Length": "1400",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"552c2410ce5c035fd81f501991aedc5437e9696009b09e1ad3c481c59a04ec0b\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/lightning-dissipation.png",
+        "bytes": 28781,
+        "sha256": "a58d1f79a9ba744e0c3ec627b5b579dceeead443a903553a4c713bfcf66cb18f",
+        "blob_sha": "777f28de416d0764e41cb0ebc63723fee86879e0",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/lightning-shield.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/lightning-shield.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "93be1b976cadf8c75fa4635856a36ce20eb08e4f",
+      "path": "WeatherIcons/game-icons-fantasy/lightning-shield.svg",
+      "category": "WeatherIcons",
+      "purpose": "电磁护盾与反击",
+      "bytes": 1178,
+      "sha256": "b778de58ce5eba7ba3903d21836aa9138b2e1d7277a91a249a151048e0bf50eb",
+      "blob_sha": "93be1b976cadf8c75fa4635856a36ce20eb08e4f",
+      "response_headers": {
+        "Content-Length": "1178",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"fd34a0dfca94cfd96494b7ec4529727d8f26eb7da42332971645b508575fb1c1\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/lightning-shield.png",
+        "bytes": 20389,
+        "sha256": "09f79811269a06e0f849b176fadb0d128c9adc402c882826209ae253fcbd7cf7",
+        "blob_sha": "ea9d4ec5040ffb2288dc09ac5ed5a957469ac0c0",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/lightning-storm.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/lightning-storm.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "0c842a93df4eaa1de60b6eddf60acda92eca208a",
+      "path": "WeatherIcons/game-icons-fantasy/lightning-storm.svg",
+      "category": "WeatherIcons",
+      "purpose": "雷暴状态、风暴牌组标识",
+      "bytes": 885,
+      "sha256": "772a7f49d238a3f241194be301dd0269db6b6f195bbc2b418f82637777345c7d",
+      "blob_sha": "0c842a93df4eaa1de60b6eddf60acda92eca208a",
+      "response_headers": {
+        "Content-Length": "885",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"dc2d09723af75e55890b1759d4ac455794c5f92b5094c2ca82eec167e4630bb9\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/lightning-storm.png",
+        "bytes": 14259,
+        "sha256": "dc6d927bd5fee5997c349a4a17a4129f0dbb4a1a7d3da188dfda2b8b7e5ae599",
+        "blob_sha": "7ec06f104db097a439739fd6ec37f77b213654e5",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/melting-ice-cube.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/melting-ice-cube.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "d53115e26bb5fdfdf033112c357315091ca941c6",
+      "path": "WeatherIcons/game-icons-fantasy/melting-ice-cube.svg",
+      "category": "WeatherIcons",
+      "purpose": "融冰、升温转换",
+      "bytes": 1965,
+      "sha256": "9f8ea45206384b8fd6cd630d98c3376fe456f26e5380cf069e5c4d33bf5e2517",
+      "blob_sha": "d53115e26bb5fdfdf033112c357315091ca941c6",
+      "response_headers": {
+        "Content-Length": "1965",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"a9b273fe51011755613f1bb28a8f948e0ce8f1d6cd2076c1d968e08e4b6e27dc\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/melting-ice-cube.png",
+        "bytes": 23903,
+        "sha256": "e1006a1aa84ba075b17a67d3799873a1c66903a1f4cb92c7d27b4b3eabb81385",
+        "blob_sha": "d7b0fafc5d70b82b3c8156172614049194890d6c",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/raining.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/raining.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "1639cf42f2fffe7b60d8355fe190c62daa6c66ff",
+      "path": "WeatherIcons/game-icons-fantasy/raining.svg",
+      "category": "WeatherIcons",
+      "purpose": "持续降雨、湿润状态",
+      "bytes": 2103,
+      "sha256": "a7355caed7566da5ede7f0c2580f7d4a32cf188d9f97692ec52d324a1c4b25f2",
+      "blob_sha": "1639cf42f2fffe7b60d8355fe190c62daa6c66ff",
+      "response_headers": {
+        "Content-Length": "2103",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"c72534e6ba2b176abd01b644ba9d08f6da4a2059c300aec76ef8905b964e6d97\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/raining.png",
+        "bytes": 17789,
+        "sha256": "dbd2ea1515ea1ed4bbe301f41830525277e104d2595b25778e830c06e06fda3a",
+        "blob_sha": "1e9679f440e0065caaccf4360e1a8ebb367ff5b5",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/sandstorm.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/sandstorm.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "637aada4097ab10153b313ea94b92b52ab34c0d8",
+      "path": "WeatherIcons/game-icons-fantasy/sandstorm.svg",
+      "category": "WeatherIcons",
+      "purpose": "沙尘暴环境",
+      "bytes": 5302,
+      "sha256": "ffb37d5fa33e3fab239717482f0c5c7eaa708f96e47ea1783c65b3861d1381d7",
+      "blob_sha": "637aada4097ab10153b313ea94b92b52ab34c0d8",
+      "response_headers": {
+        "Content-Length": "5302",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"52f07c797ff34cac57cd6954b58d51175bd8509afac17020c0b8e2a662348d3b\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/sandstorm.png",
+        "bytes": 25314,
+        "sha256": "7c2f78e715378a8b33f9a823d6205b2af74dd823799171e7c1c3d48c7f57a62d",
+        "blob_sha": "1d2c2d00115cb83cc65760f318ad3dac5c3852c3",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/snowflake-1.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/snowflake-1.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "2afee9d19fcf97e24748d5efc14dbd3ba82a0fed",
+      "path": "WeatherIcons/game-icons-fantasy/snowflake-1.svg",
+      "category": "WeatherIcons",
+      "purpose": "冻结、积雪层数",
+      "bytes": 982,
+      "sha256": "e2f79295d5a0dcf128ebe8b1d2c0bb556013229ae39ba5f8db45b74595ebd762",
+      "blob_sha": "2afee9d19fcf97e24748d5efc14dbd3ba82a0fed",
+      "response_headers": {
+        "Content-Length": "982",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"7d43d02d491ddfc7df3db3b8ade43302d77db0ea2b0f845fbb8998df3d338f75\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/snowflake-1.png",
+        "bytes": 20291,
+        "sha256": "3766668f43cbd604f5519556d85fa270f6a386f9ce2ff18b10ad10a484d3b5a3",
+        "blob_sha": "a8b96dfd5f80deb5140e60ccd75f64bd1c57d1f1",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/snowing.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/snowing.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "caabfc934b1a7b1e5e984478f5be082934910c05",
+      "path": "WeatherIcons/game-icons-fantasy/snowing.svg",
+      "category": "WeatherIcons",
+      "purpose": "降雪环境与寒冷回合",
+      "bytes": 1808,
+      "sha256": "53ad9c1895776916f99cb48dfc3829daf186bb5a5fc038623102d43e9aff1ea0",
+      "blob_sha": "caabfc934b1a7b1e5e984478f5be082934910c05",
+      "response_headers": {
+        "Content-Length": "1808",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"6f9232ce8ff63f57097fb343b9a9386e5cc6c7d604dd26e9623be1de193eec89\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/snowing.png",
+        "bytes": 17211,
+        "sha256": "ee068f229690278d08a8468fc9f02efe5613f8f377a02781792047cf413a0c66",
+        "blob_sha": "f4beca5213b165692ee6309d36ecf70532b8c3a3",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/sun-cloud.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/sun-cloud.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "99362bfcc8caf543139ec61389c2b6ee37435397",
+      "path": "WeatherIcons/game-icons-fantasy/sun-cloud.svg",
+      "category": "WeatherIcons",
+      "purpose": "晴间多云、天气转变",
+      "bytes": 1405,
+      "sha256": "e6b4a61c00bb9b0b2566b6462de51de600bbd325aed1dd8cea5ea9193e49f31d",
+      "blob_sha": "99362bfcc8caf543139ec61389c2b6ee37435397",
+      "response_headers": {
+        "Content-Length": "1405",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"93a4a198f908ee6f597a4547bbac198f44c074d24b0a232de751341fbd22fdb8\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/sun-cloud.png",
+        "bytes": 10992,
+        "sha256": "a3474297a3468aefa60799a013ce38828ae01866f0d3c856713ab57bccccc938",
+        "blob_sha": "8d90268016752ca6ea74b10afebbaf7e8de9f5ec",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/sun-radiations.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/sun-radiations.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "b699a1eb89392528840b95aca49e38cf05fc08d3",
+      "path": "WeatherIcons/game-icons-fantasy/sun-radiations.svg",
+      "category": "WeatherIcons",
+      "purpose": "辐射、热浪状态",
+      "bytes": 930,
+      "sha256": "664a20adc10227f39cc9217b829e8bf599e3523e16f1e8f23dfe7314805c3dab",
+      "blob_sha": "b699a1eb89392528840b95aca49e38cf05fc08d3",
+      "response_headers": {
+        "Content-Length": "930",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"7073c4397742b1196aa9844b90b46ebd5743e8714d3cdc34d97dcdb7b879d7da\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/sun-radiations.png",
+        "bytes": 26109,
+        "sha256": "8d7a3383b044b049ff3fc2adaf82e379f69f73af31ff00a8f23054ccc99d0694",
+        "blob_sha": "4e7ff071d56cfa59a169ba44f582ae9885772ce2",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/sun.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/sun.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "b52ccd35da3b60d5b13d9aeae581b8694f64b652",
+      "path": "WeatherIcons/game-icons-fantasy/sun.svg",
+      "category": "WeatherIcons",
+      "purpose": "晴天、太阳能量",
+      "bytes": 2053,
+      "sha256": "a031f146f8d46c49a2d5480e08eda3378e455200b208f8b23858f977abe0f279",
+      "blob_sha": "b52ccd35da3b60d5b13d9aeae581b8694f64b652",
+      "response_headers": {
+        "Content-Length": "2053",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"c2e8c0f36b680bd67bdbec83204ca2ce903d70df88cc5d829bc03703f5bc7936\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/sun.png",
+        "bytes": 21816,
+        "sha256": "6140ab07a32a7278d1e5d532f152d01c7c4156614c1cdaa7dd0965cabe98dc6d",
+        "blob_sha": "c6d3d2c826f10e2e19d5567eba8de6f1af9a782e",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/tension-snowflake.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/tension-snowflake.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "7880753c93524890018cd69372b10c9cac7ca702",
+      "path": "WeatherIcons/game-icons-fantasy/tension-snowflake.svg",
+      "category": "WeatherIcons",
+      "purpose": "冰晶压缩、霜冻蓄力",
+      "bytes": 2583,
+      "sha256": "c35693b5d559f8315bbcf3b484d2ed7dce31e4945778331b8732f25bc2051ea4",
+      "blob_sha": "7880753c93524890018cd69372b10c9cac7ca702",
+      "response_headers": {
+        "Content-Length": "2583",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"329ea19744f91810594b5bd5228a24edf38213b1cfe0ce03fe492e2c813d061c\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/tension-snowflake.png",
+        "bytes": 17099,
+        "sha256": "5f6d8171ba47375d4d4947f594c146379d7e360ebf3d629ab9e3b36417ba3370",
+        "blob_sha": "508ce90ceadb145aed2e367a35c8b826507278eb",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/thermometer-cold.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/thermometer-cold.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "5355af2b5dea788cb3271d29e1f61ad89bffa21e",
+      "path": "WeatherIcons/game-icons-fantasy/thermometer-cold.svg",
+      "category": "WeatherIcons",
+      "purpose": "低温状态与寒潮",
+      "bytes": 1543,
+      "sha256": "3ecc9e56225ccd59270d88d4837f6bf3ac0e134212d092b817d9a52f170bcc63",
+      "blob_sha": "5355af2b5dea788cb3271d29e1f61ad89bffa21e",
+      "response_headers": {
+        "Content-Length": "1543",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"c67dc627309789425cff5f9bf754830364e23633b03fef454d333f382eb1b8f1\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/thermometer-cold.png",
+        "bytes": 17622,
+        "sha256": "4353341a4602dfe21a79ab8b69e6acf9b89263a1a96452f8a0610150dc64ca9d",
+        "blob_sha": "ec5f96d82c4c355d1f3adf643fa27ea735bae771",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "delapouite/thermometer-hot.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/delapouite/thermometer-hot.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "38f83607f2e6b00cfc581840b7237bd3e066d6e3",
+      "path": "WeatherIcons/game-icons-fantasy/thermometer-hot.svg",
+      "category": "WeatherIcons",
+      "purpose": "高温状态与热浪",
+      "bytes": 1902,
+      "sha256": "c2a7e917f982b3d681d503ad7a44b84b1fed9fb30adbe6f89591a740160e20a1",
+      "blob_sha": "38f83607f2e6b00cfc581840b7237bd3e066d6e3",
+      "response_headers": {
+        "Content-Length": "1902",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"b080dd594d60d1d0ed3cab65f5ae7be89eedbebb681d809ab51ab36d222e21a1\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/thermometer-hot.png",
+        "bytes": 19078,
+        "sha256": "aa88b837f8360fcbca75f35538815eeb0808281da8f4e4c0f80ee0de6ed1711e",
+        "blob_sha": "aee898561c964715f54c1aacc30598e267dfd9c7",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Delapouite"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/tornado.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/tornado.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "6ee56fb4d29b098c3e4e98bc2927d442d9d9c324",
+      "path": "WeatherIcons/game-icons-fantasy/tornado.svg",
+      "category": "WeatherIcons",
+      "purpose": "龙卷风、天气事件",
+      "bytes": 2354,
+      "sha256": "714db5052a1fbafb19a7e26e41fed4e87fe849d51b5cdd7d1878c83a840114cc",
+      "blob_sha": "6ee56fb4d29b098c3e4e98bc2927d442d9d9c324",
+      "response_headers": {
+        "Content-Length": "2354",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"1768503b45e6e4ddf350caa9b38faecf3ce05d4571d2e256abdc18e49bf803f2\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/tornado.png",
+        "bytes": 24083,
+        "sha256": "cb60eb68fd5a7506e55d8963d2105c5eee5e5a66e846ecb82745abed984a495d",
+        "blob_sha": "24199c2bceb9953d57ad2d3c390bb85f4cbe5e19",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/whirlwind.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/whirlwind.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "b321c0e95b5335616abe703ef9d52c1b17593a7b",
+      "path": "WeatherIcons/game-icons-fantasy/whirlwind.svg",
+      "category": "WeatherIcons",
+      "purpose": "旋风、多次打击",
+      "bytes": 2239,
+      "sha256": "5ae969795fd335cd06c0de9cbeb2887895358ac072053142288ce1993ef11eef",
+      "blob_sha": "b321c0e95b5335616abe703ef9d52c1b17593a7b",
+      "response_headers": {
+        "Content-Length": "2239",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"dc43b9953ecb5394f9440e2be865f393add02a1ce1c9f6651113cc367ee70bda\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/whirlwind.png",
+        "bytes": 24901,
+        "sha256": "7d2ddf7c55313127876b6ca8f87dcfcb0e7d1334315e4134c330ba0108ad3b9b",
+        "blob_sha": "1d8f8214e207e817953fe46f9448b152a1ce900d",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/wind-slap.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/wind-slap.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "f4666142e59872fe59d5f4c49121d416eb83b345",
+      "path": "WeatherIcons/game-icons-fantasy/wind-slap.svg",
+      "category": "WeatherIcons",
+      "purpose": "阵风冲击与击退提示",
+      "bytes": 682,
+      "sha256": "27a417bf9337eba5b3273a77df6ffa255d58be05811853e1b18222815cf49452",
+      "blob_sha": "f4666142e59872fe59d5f4c49121d416eb83b345",
+      "response_headers": {
+        "Content-Length": "682",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"fdaf2ad37de4ce9fd2aa055ce7c4c27e5708029f640d1ff1b59b9535284074f5\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/wind-slap.png",
+        "bytes": 23061,
+        "sha256": "7ca516a4eea4e6cfedd3157892245c8d7cc0d9fde2bf638650bbed0bde778924",
+        "blob_sha": "0bfdee39550376e68494cbc18f8ba5865bc17e63",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "icons",
+      "source_path": "lorc/windy-stripes.svg",
+      "source_url": "https://raw.githubusercontent.com/game-icons/icons/82d948812bfe3f269ef8f731dcdb07b08160edc4/lorc/windy-stripes.svg",
+      "source_commit": "82d948812bfe3f269ef8f731dcdb07b08160edc4",
+      "expected_blob": "b1ec137c14645d07e062734dafcc12d0bbd2df24",
+      "path": "WeatherIcons/game-icons-fantasy/windy-stripes.svg",
+      "category": "WeatherIcons",
+      "purpose": "强风、风速状态",
+      "bytes": 787,
+      "sha256": "f6e42103bd79d0fad62866f21cfea191556dd04f0d83cb88cefaaa297be06c14",
+      "blob_sha": "b1ec137c14645d07e062734dafcc12d0bbd2df24",
+      "response_headers": {
+        "Content-Length": "787",
+        "Content-Type": "image/svg+xml",
+        "ETag": "\"62e4748a1a4ca5276cfc48e774e1919b78f7da922ad5d7bdba6a90c1d5726239\""
+      },
+      "unity_tested": false,
+      "selected": true,
+      "derived_png": {
+        "path": "WeatherIcons/game-icons-fantasy/windy-stripes.png",
+        "bytes": 18208,
+        "sha256": "c03975a36021a447606f90f321e3038a9f934a078793d4dd2bf96a0821353d97",
+        "blob_sha": "48dc96bf90df8b338d346216101015e040aef34a",
+        "width": 512,
+        "height": 512,
+        "normalization": "删除源SVG的黑色整幅背景路径；其余路径保留几何，统一白色，栅格化为512×512透明PNG。",
+        "renderer": "CairoSVG 2.9.1"
+      },
+      "author": "Lorc"
+    },
+    {
+      "source": "grem-mega-archive",
+      "source_path": "GreenLouse.psd",
+      "source_archive": "Sources/gremious-hd/GreenLouse.7z",
+      "source_url": "https://mega.nz/folder/gfpgTCyK#2oFOjVFKyOreKv7zdY1fEQ",
+      "source_node": "tfIhkaxA",
+      "path": "Enemies/gremious-hd/GreenLouse.psd",
+      "category": "Enemies",
+      "purpose": "绿虱16位通道PSD，15层、12个含矢量遮罩的层；用于换色和形状参考，导出8位PNG后再入Unity",
+      "selected": true,
+      "unity_tested": false,
+      "bytes": 3909306,
+      "sha256": "9dd4b4f19b50ad499b3828a2f0b5d87447ac72a770d5b75aff46ca436d156868",
+      "blob_sha": "fa7119131c56a14da6cfac514d7979f4b95b3368",
+      "image": {
+        "width": 953,
+        "height": 496,
+        "mode": "RGBA",
+        "format": "PSD/PSB"
+      },
+      "psd": {
+        "width": 953,
+        "height": 496,
+        "header_version": 1,
+        "layer_count": 15,
+        "vector_mask_layers": 12,
+        "layer_names": [
+          "Layer 1",
+          "Louse",
+          "Back Thingy",
+          "Tail",
+          "Upside down",
+          "3",
+          "Upside down",
+          "2",
+          "Upside down",
+          "1",
+          "Upside down",
+          "Normal Shadow",
+          "Head",
+          "Eye Shadow",
+          "Front Thingy"
+        ],
+        "channel_depth": 16
+      },
+      "composite_preview": {
+        "path": "Previews/community-supplement-2026-10/psd/GreenLouse.png",
+        "bytes": 53223,
+        "sha256": "61b403eb96531726de23ff31623963c721e3728037506223ab6a175bc69b3de1",
+        "blob_sha": "1d1857fbce92148b309e908c37629e6ef4acf0eb"
+      }
+    }
+  ]
+}

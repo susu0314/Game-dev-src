@@ -1,0 +1,17 @@
+{
+  "collection": "community-supplement-2026-10",
+  "verified_at": "2026-10-03",
+  "original_or_extracted_files_hashed": 115,
+  "git_lfs_entities_verified": 14,
+  "svg_to_transparent_png_pixel_comparisons": 46,
+  "psd_files_layers_and_stored_composites_verified": 7,
+  "decoded_png_jpg_files": 105,
+  "local_markdown_links_valid": 378,
+  "greenlouse_7z_crc": "passed",
+  "greenlouse_extracted_member_sha256": "passed",
+  "clone_tutorial_exact_duplicate_sprites": 10,
+  "upload_original_bytes": "passed",
+  "unity_import_or_runtime_tested": false,
+  "mega_transport_mac_verified": false,
+  "errors": []
+}

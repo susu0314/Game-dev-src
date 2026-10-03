@@ -9,3 +9,7 @@
 | [Meteocons](meteocons/README.md) | 仅索引 | 原作者 Bas Milius 的天气图标项目；含 SVG、静态 SVG 与 Lottie 路线，风格比细线图标更丰富。 | MIT |
 
 用途由本仓库整理者提出，不代表作者原作已包含气象玩法或科学说明。请进入每包 README 查看实际文件、尺寸与注意事项。
+
+## 社区补充批次 · 2026-10-03
+
+[game-icons-fantasy](game-icons-fantasy/README.md)。每项含实测规格、用途和来源，见[批次总览](../Collections/community-supplement-2026-10/README.md)。

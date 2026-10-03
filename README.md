@@ -1,4 +1,10 @@
 # Game-dev-src · 气象卡牌游戏素材库
+## 新增：社区高清源文件与黑金UI参考
+
+[本批总览](Collections/community-supplement-2026-10/README.md)：4种HD敌人、7份可编辑PSD（含绿虱）、46款气象/遗物/地图SVG与透明PNG、6张粒子贴图、拖尾代码、官方截图与上传概念长图。另有8个占位文件归入[废弃目录](Discarded/community-supplement-2026-10/README.md)。
+
+[美术与UI参考入口](ArtReferences/README.md) · [新来源核对](Collections/community-supplement-2026-10/SourceAudit.md)。
+
 
 ## 新增：Spire Codex 二维素材补充
 

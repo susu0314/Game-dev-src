@@ -30,3 +30,7 @@
 | Source_Skyboxes | 核查 README 的 CC BY 4.0 声明；面向 Source，引入 Unity 需另验证，保留具体仓库入口 |
 
 本轮新增 Cute Cloud、Bad Cloud、Lucide 观测图标、雪地瓦片、山地黄昏分层、Kenney 粒子与制图精选，是为补足天气卡牌原型的可用文件。没有为了覆盖清单而引入地牢生成器、3D 动态天气完整工程或头像生成服务。
+
+## 用户新增来源 · 2026-10-03
+
+[本批来源核对](Collections/community-supplement-2026-10/SourceAudit.md)：实际下载、LFS实体、外部HD分享、仅索引入口、单帧FX与再分发限制分别记录。

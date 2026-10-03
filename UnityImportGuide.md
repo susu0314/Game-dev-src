@@ -37,3 +37,7 @@ Unity 官方设置参考：
 ## Spire Codex PNG与动作图表
 
 [二维图片与完整逐帧图表接入说明](Collections/spire-codex-sts2/IntegrationNotes.md)。使用PNG输出，源WebP存档用于追溯；PNG像素核对不等于Unity导入运行验收。
+
+## 社区补充的导入说明
+
+[本批Unity取用说明](Collections/community-supplement-2026-10/UnityNotes.md)：透明PNG、静态粒子贴图、16位PSD导出与Godot拖尾参数移植。尚未执行项目导入或运行测试。

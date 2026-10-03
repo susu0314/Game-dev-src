@@ -31,3 +31,7 @@ CC0 说明：https://creativecommons.org/publicdomain/zero/1.0/
 ## Spire Codex 二维补充
 
 [本批来源说明](Collections/spire-codex-sts2/README.md)：原游戏Slay the Spire 2美术与站点预渲染结果，来自Spire Codex主版本v0.107.1。提供RGBA PNG与源WebP原文件ZIP，来源、转换和哈希分别记录；按个人非商用原型用途整理，未套用CC0/MIT许可。
+
+## 社区补充批次 · 2026-10-03
+
+Game-icons图标：Lorc、Delapouite，CC BY3.0；新增透明白色PNG由源SVG栅格化并移除黑底。Nue Deck项目和卡牌拖尾代码保留MIT许可。Gremious外部HD美术、Mega Crit截图、The Code Otter教程素材、用户上传概念图按实际来源分别记录。详见[本批来源核对](Collections/community-supplement-2026-10/SourceAudit.md)与[逐项清单](Collections/community-supplement-2026-10/manifest.json)。
