@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-03",
+  "source_files": 2614,
+  "retained": 905,
+  "discarded": 1709,
+  "image_files_verified": 687,
+  "json_files_parsed": 73,
+  "atlas_files_checked": 73,
+  "audio_container_checked": 72,
+  "source_blob_verified": 905,
+  "missing_atlas_pages": [],
+  "missing_attachment_regions": [],
+  "unity_tested": false,
+  "audio_listened": false
+}

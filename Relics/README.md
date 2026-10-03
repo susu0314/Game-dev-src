@@ -7,3 +7,7 @@
 | [Lucide instruments-line](instruments-line/README.md) | 已入库 | 气压计示意、温度计、雷达、卫星、采样瓶等遗物占位图。 | ISC AND MIT |
 
 用途由本仓库整理者提出，不代表作者原作已包含气象玩法或科学说明。请进入每包 README 查看实际文件、尺寸与注意事项。
+
+## 原版素材精选
+
+[遗物与器具 · 逐文件与分组说明](sts-original/README.md)：75个保留文件。原版来源，与首批气象开源素材分别记录。

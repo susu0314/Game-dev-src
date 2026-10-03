@@ -23,3 +23,7 @@ CC0 说明：https://creativecommons.org/publicdomain/zero/1.0/
 已入库图像除天空全景缩小外保留下载内容；分包精选属于文件选择，不是对图像的绘制修改。`catalog.json` 记录原下载哈希，`manifest.json` 记录实际入库文件哈希。仅索引资源的条件见各自 README。
 
 游戏致谢可直接写：Bad Cloud by BananaOwl (CC BY 3.0); Weather GUI Icons by AllenJones (CC BY 4.0); Icons by Lucide contributors and Feather contributors (ISC/MIT). 并附本表中的原作和许可链接；后续修改再补修改说明。
+
+## 用户上传原版资源批次
+
+新增来源为用户提供的原版《Slay the Spire》资源，见 [该批次说明](Collections/sts-original/README.md)。本次按个人学习/非商用原型筛选，保留原始文件内容及来源，未发现随包统一LICENSE，不将其套用本文件前面的CC0/MIT许可。73套Spine文件是导出数据，运行时另外选择与验证。

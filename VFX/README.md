@@ -11,3 +11,7 @@
 | [Piece-of-Dynamic-Weather](dynamic-weather/README.md) | 仅索引 | README 标注 Unity 6.1 / URP，VFX Graph、Shader Graph、iTween，含风、雨、闪电和龙卷风。 | 未在顶层发现 LICENSE；依赖另行核查 |
 
 用途由本仓库整理者提出，不代表作者原作已包含气象玩法或科学说明。请进入每包 README 查看实际文件、尺寸与注意事项。
+
+## 原版素材精选
+
+[特效与能量球 · 逐文件与分组说明](sts-original/README.md)：49个保留文件。原版来源，与首批气象开源素材分别记录。

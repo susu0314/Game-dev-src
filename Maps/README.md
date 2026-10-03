@@ -9,3 +9,7 @@
 | [Lucide route-nodes-line](route-nodes-line/README.md) | 已入库 | 战斗、精英、商店、营地、未知事件与山林路线。少量非气象玩法通用图标。 | ISC AND MIT |
 
 用途由本仓库整理者提出，不代表作者原作已包含气象玩法或科学说明。请进入每包 README 查看实际文件、尺寸与注意事项。
+
+## 原版素材精选
+
+[路线地图 · 逐文件与分组说明](sts-original/README.md)：50个保留文件。原版来源，与首批气象开源素材分别记录。

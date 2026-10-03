@@ -29,3 +29,7 @@ UGUI 卡牌上的费用、标题、描述用文本组件覆盖，不直接沿用
 Unity 官方设置参考：
 - https://docs.unity3d.com/6000.0/Documentation/Manual/texture-type-sprite.html
 - https://docs.unity3d.com/6000.0/Documentation/Manual/9SliceSprites.html
+
+## 新增原版资源
+
+[原版素材接入说明](Collections/sts-original/IntegrationNotes.md)：Spine3.4骨骼、图集依赖、原特效图表与音频检查。不要把本批原角色图集当单张人物Sprite，也不要把文件完整性当作Unity兼容性通过。
